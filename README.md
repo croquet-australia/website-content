@@ -1,2 +1,3 @@
-# website-content
-Content for http://croquet-australia.com.au
+# Croquet Australia - Website Content
+
+Content for http://croquet-australia.com.au.
