@@ -7,6 +7,6 @@ Author:
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-The [Program](/disciplines/golf-croquet/tournaments/gc-open-program-2015.pdf) for the Golf Croquet Open Doubles and Singles is available for [download[(/disciplines/golf-croquet/tournaments/gc-open-program-2015.pdf).
+The [Program](/disciplines/golf-croquet/tournaments/gc-open-program-2015.pdf) for the Golf Croquet Open Doubles and Singles is available for [download](/disciplines/golf-croquet/tournaments/gc-open-program-2015.pdf).
 
 Please note the schedule of play for each event will be posted on the notice board at Cairnlea from 2pm onwards on Friday 8 May when Registration commences.
