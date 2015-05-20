@@ -1,13 +1,13 @@
 ---
-Title: COACHING GOLF CROQUET (GC)
-Published: 2015-05-20T12:57:29.4789602+10:00
+Title: Coaching Golf Croquet (GC)
+Published: 2015-05-20T12:58:53.8132583+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-#COACHING GOLF CROQUET (GC)
+#Coaching Golf Croquet (GC)
 
 ##Officials##
 
