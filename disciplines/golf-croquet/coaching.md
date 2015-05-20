@@ -1,6 +1,6 @@
 ---
 Title: COACHING GOLF CROQUET (GC)
-Published: 2015-05-20T12:54:49.7432042+10:00
+Published: 2015-05-20T12:57:29.4789602+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,7 +9,7 @@ Author:
 ---
 #COACHING GOLF CROQUET (GC)
 
-**Officials**
+##Officials##
 
 | | |
 |-|-|
