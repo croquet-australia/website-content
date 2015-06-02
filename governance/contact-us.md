@@ -1,6 +1,6 @@
 ---
 Title: '**BOARD**'
-Published: 2015-06-02T11:15:20.9305896+10:00
+Published: 2015-06-02T11:17:02.2890481+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -8,11 +8,11 @@ Author:
 
 ---
 **ACA National Head Office**
-<br/>[Administrative Officer
-<br/>[[Susan Linge](mailto:admin@croquet-australia.com.au)
-<br/>[PO BOX 254, DICKSON ACT 2602
-<br/>[Mob: 0457 678 380
-<br/>[Website: www.croquet-australia.com.au
+<br/>Administrative Officer
+<br/>[Susan Linge](mailto:admin@croquet-australia.com.au)
+<br/>PO BOX 254, DICKSON ACT 2602
+<br/>Mob: 0457 678 380
+<br/>Website: www.croquet-australia.com.au
 
 #**BOARD**
 
