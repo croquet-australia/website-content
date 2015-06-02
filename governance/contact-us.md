@@ -1,12 +1,14 @@
 ---
 Title: governance\contact us
-Published: 2015-06-02T11:23:58.5035127+10:00
+Published: 2015-06-03T09:28:08.5400627+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+<img src= "/aca-logo.jpg" alt = "aca logo"/>
+
 **ACA National Head Office**
 <br/>Administrative Officer
 <br/>[Susan Linge](mailto:admin@croquet-australia.com.au)
@@ -18,8 +20,8 @@ Author:
 
 ###**Chair**
 <br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au)
-<br/>[9 The Avenue, LORN NSW 2320
-<br/>[Ph: 02.4934 1135; Mob: 0412 380 313
+<br/>9 The Avenue, LORN NSW 2320
+<br/>Ph: 02.4934 1135; Mob: 0412 380 313
 
 ###**Directors**
 
