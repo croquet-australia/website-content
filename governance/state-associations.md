@@ -1,6 +1,6 @@
 ---
 Title: governance\state associations
-Published: 2015-06-02T11:29:29.1807482+10:00
+Published: 2015-06-02T11:30:05.0866552+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,4 +9,4 @@ Author:
 ---
 New South Wales [Croquet NSW Inc](http://www.croquet-nsw.org/contact.html)
 
-Queensland[Croquet Queensland](http://croquetqld.org/672-2/)
+Queensland [Croquet Queensland](http://croquetqld.org/672-2/)
