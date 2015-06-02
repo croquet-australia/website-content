@@ -1,12 +1,12 @@
 ---
 Title: governance\state associations
-Published: 2015-06-02T11:27:21.5563967+10:00
+Published: 2015-06-02T11:29:29.1807482+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-###**New South Wales** [Croquet NSW Inc](http://www.croquet-nsw.org/contact.html)
+New South Wales [Croquet NSW Inc](http://www.croquet-nsw.org/contact.html)
 
-###**Queensland** [Croquet Queensland](http://croquetqld.org/672-2/)
+Queensland[Croquet Queensland](http://croquetqld.org/672-2/)
