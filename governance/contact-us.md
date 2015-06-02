@@ -1,6 +1,6 @@
 ---
-Title: '**BOARD**'
-Published: 2015-06-02T11:21:53.8324640+10:00
+Title: governance\contact us
+Published: 2015-06-02T11:23:58.5035127+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -14,14 +14,14 @@ Author:
 <br/>Mob: 0457 678 380
 <br/>Website: www.croquet-australia.com.au
 
-#**BOARD**
+##**BOARD**
 
-##**Chair**
+###**Chair**
 <br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au)
 <br/>[9 The Avenue, LORN NSW 2320
 <br/>[Ph: 02.4934 1135; Mob: 0412 380 313
 
-##**Directors**
+###**Directors**
 
 <br/>[Bob Godfrey](mailto:bob.godfrey@croquet-australia.com.au)
 <br/>53/12 Casino Rise, PROSPECT VALE TAS 7250
@@ -51,22 +51,22 @@ Author:
 <br/>10 Solomon Street, MOSMAN PARK WA 6012
 <br/>Ph: 08.9384 8053; Mob: 0403 981 866
 
-#**COMMITTEES**
+##**COMMITTEES**
 
-##**Events Committee**
+###**Events Committee**
 <br/>[Peter Freer (Chair)](mailto:events@croquet-australia.com.au)
 <br/>Mob: 0412 178 254
 <br/>Bob Godfrey
 <br/>Greg Diprose
 
-##**Tournament Committee**
+###**Tournament Committee**
 <br/>[Trevor Bassett (Chair)](mailto:tournaments@croquet-australia.com.au)
 <br/>Mob: 0410 034 008
 <br/>Kevin Beard 
 <br/>Terry Ericson
 <br/>Peter Landrebe 
 
-##**AC Selection Committee**
+###**AC Selection Committee**
 <br/>[Stephen Richards (Chair)](Mailto:acselectors@croquet-australia.com.au)
 <br/>Ph: 02.6281 3703; Mob: 0407 300 110
 <br/>Tim Murphy
@@ -74,7 +74,7 @@ Author:
 <br/>Captain - Ian Dumergue 
 <br/>HPM AC - Peter Landrebe
 
-##**GC Selection Committee**
+###**GC Selection Committee**
 <br/>[John Compton (Chair)](mailto:comptos46@bigpond.com)
 <br/>Ph: 02.4933 5846 
 <br/>Anne Quinn (Sec.)
@@ -82,7 +82,7 @@ Author:
 <br/>Captain – Peter Landrebe 
 <br/>HPM GC
 
-#**APPOINTED OFFICERS**
+##**APPOINTED OFFICERS**
 
 <br/>**High Performance Manager – Association Croquet**
 <br/>[Peter Landrebe](mailto:achpm@croquet-australia.com.au)
