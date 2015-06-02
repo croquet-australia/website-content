@@ -1,6 +1,6 @@
 ---
 Title: '**BOARD**'
-Published: 2015-06-02T11:09:52.1209206+10:00
+Published: 2015-06-02T11:12:13.0510384+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -23,11 +23,11 @@ Website: www.croquet-australia.com.au
 
 ##**Directors**
 
-<br/>[ [Bob Godfrey](mailto:bob.godfrey@croquet-australia.com.au)
+<br/>[Bob Godfrey](mailto:bob.godfrey@croquet-australia.com.au)
 <br/>[53/12 Casino Rise, PROSPECT VALE TAS 7250
 <br/>[Ph: 03.6340 1643; Mob: 0408 419 959
 
-<br/>[ [Jim Saunders](mailto:jim.saunders@croquet-australia.com.au)
+<br/>[Jim Saunders](mailto:jim.saunders@croquet-australia.com.au)
 <br/>[8 Terrigal Court, LEOPOLD VIC 3224
 <br/>[Ph: 03.5250 5250; Mob: 0417 541 311
 
