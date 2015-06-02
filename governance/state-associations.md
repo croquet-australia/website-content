@@ -1,6 +1,6 @@
 ---
 Title: governance\state associations
-Published: 2015-06-02T13:23:06.7146347+10:00
+Published: 2015-06-02T13:27:38.0364858+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,7 +13,7 @@ Author:
 
 <img src= "/croquetsa-round3.jpg" alt= "SACA logo"/> South Australia [Croquet SA](http://www.croquetsa.com.au/?page_id=3238)
 
-<img src= "/Tasmania5.jpg" alt= "Croquet Tasmania logo"/>Tasmania [Croquet Tasmania](http://croquettas.com/wp-content/uploads/TCDoc-Office-Bearers.pdf)
+<img src= "/Tasmania6.jpg" alt= "Croquet Tasmania logo"/>Tasmania [Croquet Tasmania](http://croquettas.com/wp-content/uploads/TCDoc-Office-Bearers.pdf)
 
 <img src= "/croquet-victoria3.png" alt= "Croquet Victoria logo"/>   Victoria [Croquet Victoria](http://www.croquetvic.asn.au/officers.php)
 
