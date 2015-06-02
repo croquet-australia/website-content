@@ -1,6 +1,6 @@
 ---
 Title: '**BOARD**'
-Published: 2015-06-02T11:17:02.2890481+10:00
+Published: 2015-06-02T11:21:53.8324640+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -81,3 +81,69 @@ Author:
 <br/>Lester Hughes
 <br/>Captain – Peter Landrebe 
 <br/>HPM GC
+
+#**APPOINTED OFFICERS**
+
+<br/>**High Performance Manager – Association Croquet**
+<br/>[Peter Landrebe](mailto:achpm@croquet-australia.com.au)
+<br/>Mob: 0425 223 878
+
+<br/>**High Performance Manager – Golf Croquet**
+<br/>[Vacant](mailto:gchpm@croquet-australia.com.au)
+
+<br/>**National Director Gateball**
+<br/>[John Park](Mailto:)info@gateball.com.au
+<br/>Mob: 0448 227 467 
+
+<br/>**National Refereeing Director Association Croquet**
+<br/>[Vacant](mailto:ndrac@croquet-australia.com.au)
+
+<br/>**National Refereeing Director Golf Croquet**
+<br/>[Gordon Matthews](mailto:ndrgc@croquet-australia.com.au)
+<br/>Ph: 07.5443 3094
+
+<br/>**National Coaching Director Association Croquet**
+<br/>[Greg Whymark](mailto:ncdac@croquet-australia.com.au)
+<br/>Mob: 0418 158 701
+
+<br/>**National Coaching Director Golf Croquet**
+<br/> [Barb Piggott](mailto:ncdgc@croquet-australia.com.au)
+<br/>Mob: 0427 629 953
+
+<br/>**National Director of Schools Croquet**
+<br/>[Jacky McDonald](mailto:ndsc@croquet-australia.com.au)
+<br/>Ph: 02.4930 0733; Mob: 0409 246 294 
+
+<br/>**Complaints Officer**
+<br/>[Bethwyn Johnson](mailto:complaints@croquet-australia.com.au)
+<br/>Mob: 0419 049 593
+
+<br/>**National Handicapper**
+<br/>[Rob McAdam](mailto:national.handicapper@croquet-australia.com.au)
+<br/>Ph: 03.6229 8269
+
+<br/>**Archivist**
+<br/>[Martin Clarke](mailto:archivist@croquet-australia.com.au)
+<br/>Ph: 08.9529 4370
+
+<br/>**Insurance Officer**
+<br/>[Susan Linge](mailto:insurance@croquet-australia.com.au)
+<br/>Mob: 0457 678 380
+
+<br/>**Assistant Treasurer**
+<br/>[Susan Linge](mailto:admin@croquet-australia.com.au)
+<br/>Mob: 0457 678 380
+
+<br/>**Magazine Director**
+<br/>[Max Murray](mailto:murram@acr.net.au)
+
+<br/>**Editor and Subscription Manager**
+<br/>[Carolyn Ribone](mailto:magazine@croquet-australia.com.au)
+<br/>PO BOX 5918, Brendale BC, BRENDALE QLD. 4500
+<br/>Ph: 07.3298 5576
+
+<br/>**Representative International Laws Committee**
+<br/>[Elizabeth Fleming](mailto:ilc@croquet-australia.com.au)
+
+<br/>**Representative The WCF Golf Croquet Rules Committee**
+<br/>[Gordon Matthews](mailto:gcrules@croquet-australia.com.au)
