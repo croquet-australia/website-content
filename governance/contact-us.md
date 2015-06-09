@@ -1,6 +1,6 @@
 ---
 Title: governance\contact us
-Published: 2015-06-09T13:06:43.8871846+10:00
+Published: 2015-06-09T13:08:03.4571362+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -55,7 +55,8 @@ Author:
 <br/>10 Solomon Street, MOSMAN PARK WA 6012
 <br/>Ph: 08.9384 8053; Mob: 0403 981 866
 
-<a name="committees"/>##**COMMITTEES**
+<a name="committees"></a>
+##COMMITTEES
 
 ###**Events Committee**
 <br/>[Peter Freer (Chair)](mailto:events@croquet-australia.com.au)
