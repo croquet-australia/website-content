@@ -1,6 +1,6 @@
 ---
 Title: governance\contact us
-Published: 2015-06-09T13:08:03.4571362+10:00
+Published: 2015-06-09T13:09:53.6387441+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -87,6 +87,7 @@ Author:
 <br/>Captain – Peter Landrebe 
 <br/>HPM GC
 
+<a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
 
 <br/>**High Performance Manager – Association Croquet**
