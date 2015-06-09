@@ -1,0 +1,26 @@
+---
+Title: governance/constitution regulations and policies
+Published: 2015-06-09T12:18:07.6670151+10:00
+Author:
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
+  TimeZoneId: AUS Eastern Standard Time
+
+---
+###Constitution
+
+[ACA Constitution April 2015](http://aca-constitution-9-april-2015.pdf)
+
+###Strategic Plan
+
+[ACA Strategic Plan](/aca-strategic-plan-as-20-november.pdf)
+
+###Regulations
+
+[ACA Tournament Regulations updated April 2015](/tregs-tregs-amended-2015.pdf)
+
+###Policies
+
+[Anti-Doping Policy - ASADA January 2015](/croquet-final-anti-doping-policy-copy.pdf)
+
+[Member Protection Policy - June 2014](croquet-final-anti-doping-policy-copy.pdf)
