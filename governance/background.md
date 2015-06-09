@@ -1,6 +1,6 @@
 ---
 Title: Governance background
-Published: 2015-06-09T11:55:01.0156190+10:00
+Published: 2015-06-09T11:56:37.0438829+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -18,7 +18,7 @@ The Australian Croquet Association (ACA) has been incorporated in the ACT since 
 <br/>The Victorian Croquet Association Incorporated
 <br/>The West Australian Croquet Association Incorporated
 
-<br/>At the AGM, Council unanimously adopted the new [Constitution](http://aca-constitution-9-april-2015.pdf "ACA Constitution - April 9")). It is a requirement that any change to an Association’s Model Rules be lodged with the ACT Office of Regulatory Services.  Approval was received and from Thursday 9 April, 2015, the Australian Croquet Association moved from an Executive and Council to a Board Structure.
+<br/>At the AGM, Council unanimously adopted the new [Constitution](http://aca-constitution-9-april-2015.pdf "ACA Constitution - April 9"). It is a requirement that any change to an Association’s Model Rules be lodged with the ACT Office of Regulatory Services.  Approval was received and from Thursday 9 April, 2015, the Australian Croquet Association moved from an Executive and Council to a Board Structure.
 
 To assist with the transition the new Constitution outlined the makeup of the Board for its first year – three of the First Directors were to come from the Executive (President, Senior Vice President and Vice-President) and the remaining six to be selected by their State Association.  
 
