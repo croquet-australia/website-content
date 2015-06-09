@@ -1,6 +1,6 @@
 ---
 Title: governance\constitution regulations and policies
-Published: 2015-06-09T12:33:12.1861158+10:00
+Published: 2015-06-09T12:42:32.6173946+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -24,3 +24,5 @@ Author:
 [Anti-Doping Policy - ASADA January 2015](/croquet-final-anti-doping-policy-copy.pdf)
 
 [Member Protection Policy - June 2014](/aca-mpp-approved-by-asc-may-2014-copy.pdf)
+
+[ACA Selection Policy](selection-policy-approved-11-july-2012.pdf)
