@@ -1,6 +1,6 @@
 ---
 Title: governance\constitution regulations and policies
-Published: 2015-06-09T12:45:37.0857158+10:00
+Published: 2015-06-09T13:30:40.6364682+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,7 +9,7 @@ Author:
 ---
 ###Constitution
 
-[ACA Constitution April 2015](http://aca-constitution-9-april-2015.pdf)
+[ACA Constitution April 2015](/aca-constitution-9-april-2015.pdf)
 
 ###Strategic Plan
 
