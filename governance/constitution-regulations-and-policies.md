@@ -1,6 +1,6 @@
 ---
 Title: governance\constitution regulations and policies
-Published: 2015-06-09T13:30:40.6364682+10:00
+Published: 2015-06-11T09:34:28.7145932+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -17,7 +17,7 @@ Author:
 
 ###Regulations
 
-[ACA Tournament Regulations updated April 2015](/tregs-tregs-amended-2015.pdf)
+[ACA Tournament Regulations updated April 2015](/tregs-amended-8-april--2015.pdf)
 
 ###Policies
 
