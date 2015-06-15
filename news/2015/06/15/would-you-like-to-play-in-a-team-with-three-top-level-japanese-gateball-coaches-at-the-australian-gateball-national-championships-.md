@@ -9,7 +9,7 @@ Author:
 ---
 <img src = "/sparky-gb-aus.jpg" alt = "gateball logo"/>
 
-Expressions of interest are being sought from mallet sport players wishing to take up this opportunity. [Information and how to apply](http://expressions-of-interest-japanese-coaches.pdf) or email [John Park](mailto:info@gateball.com.au) National Director of Gateball.
+Expressions of interest are being sought from mallet sport players wishing to take up this opportunity. [Information and how to apply](/expressions-of-interest-japanese-coaches.pdf) or email [John Park](mailto:info@gateball.com.au) National Director of Gateball.
 
 
 This year the Australian National Gateball Championships are being held in Brisbane at the Wynnum Croquet Club from Friday 4 to Sunday 6 September.  [Information and entry forms](http://gateball.com.au/?event=australian-national-gateball-championships)
