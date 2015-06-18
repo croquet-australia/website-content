@@ -7,8 +7,6 @@ Author:
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-Date Claim GC Gold Medal, Men’s and Women’s Singles and Interstate Shield
-
 Please note the dates for the 2015 Golf Croquet Gold Medal, Men’s and Women’s Singles and Interstate Shield are –
 
 <br/>Gold Medal – Tuesday 15 to Thursday 17 September, Hobart
