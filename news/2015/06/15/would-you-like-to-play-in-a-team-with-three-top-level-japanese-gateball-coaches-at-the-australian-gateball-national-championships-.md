@@ -7,7 +7,7 @@ Author:
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<img src = "/sparky-gb-aus.jpg" alt = "gateball logo"/>
+<img src="/sparky-gb-aus.jpg" alt="gateball logo" title="gateball logo"/>
 
 Expressions of interest are being sought from mallet sport players wishing to take up this opportunity. [Information and how to apply](/expressions-of-interest-japanese-coaches.pdf) or email [John Park](mailto:info@gateball.com.au) National Director of Gateball.
 

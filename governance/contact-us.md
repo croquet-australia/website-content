@@ -7,7 +7,7 @@ Author:
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<img src= "/aca-logo.jpg" alt = "aca logo"/>
+<img src="/aca-logo.jpg" alt="ACA Logo" alt="ACA Logo"/>
 
 
 
