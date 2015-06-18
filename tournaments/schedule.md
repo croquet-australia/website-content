@@ -1,6 +1,6 @@
 ---
 Title: Tournaments schedule
-Published: 2015-06-18T12:14:43.9827852+10:00
+Published: 2015-06-18T12:14:58.3459148+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
