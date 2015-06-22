@@ -1,15 +1,15 @@
 ---
 Title: Coaching Golf Croquet (GC)
-Published: 2015-06-20T11:15:08.0200117+10:00
+Published: 2015-06-23T08:39:44.4106121+10:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
 #Coaching Golf Croquet (GC)
 
-##Officials##
+##Officials
 
 | | |
 |-|-|
@@ -19,4 +19,4 @@ Author:
 |[Victoria State Director of Golf Croquet](mailto:golfcroquet@croquetvic.asn.au)|Lorraine Gutcher|03.5134 4990|
 |[Tasmania State Director of Coaching](mailto:jparrott2@bigpond.com)|Jenny Parrott|03.6227 8393|
 |[South Australia State Co-ordinator of Coaching](mailto:haydon@kern.com.au)|Barry Haydon|0419 424 184|
-|[Western Australia State Director of Coaching](mailto:jcapobianco82@gmail.com)|Jock Capobianco| |
+|[Western Australia State Director of Coaching](mailto:jcapobianco82@gmail.com)|Jock Capobianco|-|
