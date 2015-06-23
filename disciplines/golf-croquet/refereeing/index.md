@@ -1,13 +1,13 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2015-06-20T11:36:12.4356783+10:00
+Published: 2015-06-23T10:10:21.2431175+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-# Refereeing Golf Croquet (GC)
+#Refereeing Golf Croquet (GC)
 
 To qualify as an ACA accredited Golf Croquet Referee candidates are required to complete an Assessment consisting of
 
