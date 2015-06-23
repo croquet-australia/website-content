@@ -1,12 +1,13 @@
 ---
-Title: disciplines\association croquet\coaching\index
-Published: 2015-06-23T08:43:43.9936682+10:00
+Title: Coaching Association Croquet (AC)
+Published: 2015-06-23T10:11:11.2390244+10:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+#Coaching Association Croquet (AC)
 ##Officials
 
 | | |
