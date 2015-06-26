@@ -16,8 +16,6 @@ Cairnlea, Saturday 9 to Tuesday 12 May, 2015
 
 **Winner Fleming Plates** Peter Freer and Stephen Thornton NSW
 
-<img src="/gc-open-doubles-winners.jpg" alt="Winners Open Doubles" title="Winners Open Doubles" />
-
 ##Open Singles
 Cairnlea, Wednesday 13 to Sunday 17 May, 2015
 
