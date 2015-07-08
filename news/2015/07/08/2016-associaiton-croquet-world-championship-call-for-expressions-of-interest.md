@@ -1,5 +1,5 @@
 ---
-Title: 2016 Associaiton Croquet World Championship - Call for Expressions of Interest
+Title: 2016 Association Croquet World Championship - Call for Expressions of Interest
 Published: 2015-07-08T11:37:04.7704212+10:00
 Author:
   Name: Susan Linge
@@ -11,7 +11,7 @@ The next AC World Championship is being held from Saturday 16 to Sunday 24 April
 
 <img src = "/natonal-croquet-centre-2.jpg" alt = "National Croquet Center"/>
 
-The event capacity is 80. Please email your expression of interest to [Stephen Richards](mailto:acselectors@croquet-australia.com.au, Chair AC Selectors no later than Friday 14 August.
+The event capacity is 80. Please email your expression of interest to [Stephen Richards](mailto:acselectors@croquet-australia.com.au), Chair AC Selectors no later than Friday 14 August.
 
 The WCF will allocate ranking, wild card, membership and qualifying places for the event in accordance with the [WCF's Sports Regulations](http://www.worldcroquet.org.uk/documents/Governance/SportsRegs/WCFSportsRegulations.pdf) (see Appendices 2 & 3 re WCF singles events).
 
