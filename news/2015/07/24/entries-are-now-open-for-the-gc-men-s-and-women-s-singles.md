@@ -9,16 +9,15 @@ Author:
 ---
 The Men’s Singles are being held in Hobart from Friday 18 to Monday 21 September and the Women’s Singles in Launceston also from Friday 18 to Monday 21 September. To enter go to  [The Duffers Tice](http://www.thedufferstice.com/tournaments-by-category/gc/croquet-australia).
 
-<img src = "/sandy-bay-croquet-club-lawns.jpg" alt = "Sandy Bay CC"/>
+<img src="/sandy-bay-croquet-club-lawns.jpg" alt="Sandy Bay CC" title="Sandy Bay CC"/>
 
-<img src = "/northern-tasmanian-croquet-centre.jpg" alt = "Northern Tasmanian CC - Bob Godfrey and Robyn Wallace"/>
-.
+<img src="/northern-tasmanian-croquet-centre.jpg" alt="Northern Tasmanian CC - Bob Godfrey and Robyn Wallace" title="Northern Tasmanian CC - Bob Godfrey and Robyn Wallace"/>
 
 There are several functions being held in conjunction with these tournaments.  
 
 Thursday 17 September at 6pm, Government House, Hobart – Awarding of Gold, Silver and Bronze Medals and Welcome Function for the Men’s Singles.
 
-<img src = "/government-house-tasmania.png" alt = Government House, Hobart"/>.
+<img src="/government-house-tasmania.png" alt="Government House, Hobart" title="Government House, Hobart"/>
 
 Thursday 17 September at 4pm, Northern Tasmanian Croquet Centre – Welcome Function for the Women’s Singles.
 
