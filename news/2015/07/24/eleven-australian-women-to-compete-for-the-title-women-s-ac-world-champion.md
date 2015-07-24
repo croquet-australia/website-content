@@ -1,6 +1,6 @@
 ---
 Title: "Eleven Australian Women to compete for the title – Women’s AC World Champion"
-Published: 2015-07-24T19:56:46.2385374+10:00
+Published: 2015-07-24T20:02:18.3272176+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,8 +13,6 @@ They have now been joined by three more players – Virginia Arney, Rosemary New
 
 Who will win the coveted Charles Jones Memorial Trophy?
 
-The Board of **Croquet** Australia congratulates each player and wishes them every success as they pit their skills against a field of 36 from 12 countries.
+The Board of Croquet Australia congratulates each player and wishes them every success as they pit their skills against a field of 36 from 12 countries.
 
-Current champion is New Zealander, Jenny Clarke. <img src = “/jenny-clarke-inauguaral-winner-womens-ac-championship.jpg” alt = "Jenny Clarke with the Charles Jones Memorial Trophy"/>
-
-.
+Current champion is New Zealander, Jenny Clarke <img src = “/jenny-clarke-inauguaral-winner-womens-ac-championship.jpg” alt = "Jenny Clarke with the Charles Jones Memorial Trophy"/>
