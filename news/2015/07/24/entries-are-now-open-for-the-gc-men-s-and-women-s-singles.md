@@ -9,24 +9,25 @@ Author:
 ---
 The Men’s Singles are being held in Hobart from Friday 18 to Monday 21 September and the Women’s Singles in Launceston also from Friday 18 to Monday 21 September. To enter go to  [The Duffers Tice](http://www.thedufferstice.com/tournaments-by-category/gc/croquet-australia).
 
-<img src="/sandy-bay-croquet-club-lawns.jpg" alt="Sandy Bay CC" title="Sandy Bay CC" height="153"/><br/>
-<img src="/northern-tasmanian-croquet-centre.jpg" alt="Northern Tasmanian CC - Bob Godfrey and Robyn Wallace" title="Northern Tasmanian CC - Bob Godfrey and Robyn Wallace"/>
-
+<img src="/sandy-bay-croquet-club-lawns.jpg" alt="Sandy Bay CC" title="Sandy Bay CC" height="153" style="padding-right: 10px"/>
+<img src="/northern-tasmanian-croquet-centre.jpg" alt="Northern Tasmanian CC - Bob Godfrey and Robyn Wallace" title="Northern Tasmanian CC - Bob Godfrey and Robyn Wallace"/><br/>
+  
 There are several functions being held in conjunction with these tournaments.  
 
-Thursday 17 September at 6pm, Government House, Hobart – Awarding of Gold, Silver and Bronze Medals and Welcome Function for the Men’s Singles.
+**Thursday 17 September at 6pm**, Government House, Hobart – Awarding of Gold, Silver and Bronze Medals and Welcome Function for the Men’s Singles.
+  <div style="padding: 10px 0;">
+<img src="/government-house-tasmania.png" alt="Government House, Hobart" title="Government House, Hobart"/>
+  <div>
 
-<img src="/government-house-tasmania.png" alt="Government House, Hobart" title="Government House, Hobart"/><br/><br/>
+**Thursday 17 September at 4pm**, Northern Tasmanian Croquet Centre – Welcome Function for the Women’s Singles.
 
-Thursday 17 September at 4pm, Northern Tasmanian Croquet Centre – Welcome Function for the Women’s Singles.
-
-Tuesday 22 September, Launceston Town Hall – Mayoral Reception and Presentation of Teams for the ISS.
+**Tuesday 22 September**, Launceston Town Hall – Mayoral Reception and Presentation of Teams for the ISS.
 
 Please note the specific requirements for the functions at Government House and Launceston Town Hall.
 
 To attend go to [The Duffers Tice](http://www.thedufferstice.com/tournaments-by-category/gc/croquet-tasmania)
 
-Sunday 27 September, 6.30 for 7pm, Best Western Hotel, Launceston – ISS Presentation Dinner.
+**Sunday 27 September, 6.30 for 7pm**, Best Western Hotel, Launceston – ISS Presentation Dinner.
 
 T Shirts will also be available for purchase.
 
