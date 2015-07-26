@@ -13,4 +13,6 @@ They have now been joined by three more players – Virginia Arney, Rosemary New
 Who will win the coveted Charles Jones Memorial Trophy?
 
 The Board of Croquet Australia congratulates each player and wishes them every success as they pit their skills against a field of 36 from 12 countries.
-Current champion is New Zealander, Jenny Clarke <img src = "/jenny-clarke-inauguaral-winner-womens-ac-championship.jpg" alt = "Jenny Clarke with the Charles Jones Memorial Trophy"/>
+Current champion is New Zealander, Jenny Clarke.
+
+<img src = "/jenny-clarke-inauguaral-winner-womens-ac-championship.jpg" alt = "Jenny Clarke with the Charles Jones Memorial Trophy"/>
