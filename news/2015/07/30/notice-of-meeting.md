@@ -1,6 +1,6 @@
 ---
 Title: Notice of Meeting
-Published: 2015-07-30T10:10:51.8279152+10:00
+Published: 2015-07-30T10:10:53.5128169+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
