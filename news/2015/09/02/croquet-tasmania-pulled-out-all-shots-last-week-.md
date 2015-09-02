@@ -1,6 +1,6 @@
 ---
 Title: Croquet Tasmania pulled out all shots last week...
-Published: 2015-09-02T14:05:54.4474061+10:00
+Published: 2015-09-02T14:19:40.1677871+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -19,7 +19,7 @@ In the lead up to the Golf Croquet Gold Medal, Men's and Women's Singles and the
 
 
 
- <br/> <img src="/croquet-with-governor-of-tasmania.jpg" alt="Tasmania's Team with the Governor of Tasmania, Her Excellency, Professor Kate Warner, AM"/>
+ <br/> <img src="/croquet-with-governor-of-tasmania.jpg" alt="Tasmania's Team with the Governor of Tasmania, Her Excellency, Professor Kate Warner, AM"  title="Tasmania's Team with the Governor of Tasmania, Her Excellency, Professor Kate Warner, AM"/>
 
 
 
