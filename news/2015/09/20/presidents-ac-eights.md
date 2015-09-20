@@ -1,6 +1,6 @@
 ---
 Title: President's AC Eights
-Published: 2015-09-20T12:03:08.0293347+10:00
+Published: 2015-09-20T12:03:49.7376276+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -11,7 +11,6 @@ The President’s AC Eights are being held at Cairnlea from Friday 9 to Monday 1
 Expressions of interest were sought and the following players have accepted their invitations and been given a place.
 
 Each Eight will be determined based on rankings as at Tuesday 22 September.
-
 <br/>OPEN EIGHTS
 <br/>Robert Fletcher
 <br/>Stephen Forster
