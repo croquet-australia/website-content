@@ -1,18 +1,16 @@
 ---
 Title: governance/contact us
-Published: 2015-09-20T12:23:17.9490832+10:00
+Published: 2015-09-20T12:24:27.0051086+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<br/><img src="/aca-logo.jpg" alt="ACA Logo" title="ACA Logo"/>##**AUSTRALIAN CROQUET ASSOCIATION**
+<br/><img src="/aca-logo.jpg" alt="ACA Logo" title="ACA Logo"/> ##**AUSTRALIAN CROQUET ASSOCIATION**
 <br/> Incorporated in the ACT 
 <br/>Trading as **Croquet** Australia and Gateball Australia
 <br/>ABN 90 330 745 920 
-
-
 <br/>**ACA National Head Office**
 <br/>Administrative Officer
 <br/>[Susan Linge](mailto:admin@croquet-australia.com.au)
@@ -21,14 +19,12 @@ Author:
 <br/>Website: www.croquet-australia.com.au
 
 ##**BOARD**
-
 ###**Chair**
 <br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au)
 <br/>9 The Avenue, LORN NSW 2320
 <br/>Ph: 02.4934 1135; Mob: 0412 380 313
 
 ###**Directors**
-
 <br/>[Bob Godfrey](mailto:bob.godfrey@croquet-australia.com.au)
 <br/>53/12 Casino Rise, PROSPECT VALE TAS 7250
 <br/>Ph: 03.6340 1643; Mob: 0408 419 959
@@ -59,7 +55,6 @@ Author:
 
 <a name="committees"></a>
 ##COMMITTEES
-
 ###**Events Committee**
 <br/>[Peter Freer (Chair)](mailto:events@croquet-australia.com.au)
 <br/>Mob: 0412 178 254
@@ -91,7 +86,6 @@ Author:
 
 <a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
-
 <br/>**High Performance Manager – Association Croquet**
 <br/>[Peter Landrebe](mailto:achpm@croquet-australia.com.au)
 <br/>Mob: 0425 223 878
