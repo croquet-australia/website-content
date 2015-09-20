@@ -1,17 +1,13 @@
 ---
 Title: President's AC Eights
-Published: 2015-09-20T11:56:39.2933723+10:00
+Published: 2015-09-20T12:03:08.0293347+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-The President’s AC Eights is being held at Cairnlea from Friday 9 to Monday 12 October.
-Expressions of interest were sought and the following players have accepted their invitations and been given a place.
-
-Each Eight will be determined based on rankings as at Tuesday 22 September.
-The President’s AC Eights is being held at Cairnlea from Friday 9 to Monday 12 October.
+The President’s AC Eights are being held at Cairnlea from Friday 9 to Monday 12 October.
 Expressions of interest were sought and the following players have accepted their invitations and been given a place.
 
 Each Eight will be determined based on rankings as at Tuesday 22 September.
