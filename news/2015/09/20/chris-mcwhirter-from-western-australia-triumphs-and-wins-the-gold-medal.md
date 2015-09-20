@@ -1,6 +1,6 @@
 ---
 Title: Chris McWhirter from Western Australia triumphs and wins the Gold Medal
-Published: 2015-09-20T11:58:58.9815949+10:00
+Published: 2015-09-21T09:38:58.5344840+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
