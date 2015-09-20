@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2015-09-20T12:31:49.8877725+10:00
+Published: 2015-09-20T17:51:44.7702289+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -10,7 +10,7 @@ Author:
 <br/><img src="/aca-logo.jpg" alt="ACA Logo" title="ACA Logo"/> 
 ##**AUSTRALIAN CROQUET ASSOCIATION**
 <br/> Incorporated in the ACT 
-<br/>Trading as **Croquet** Australia and Gateball Australia
+<br/>Trading as **Croquet** Australia and [Gateball Australia](http://gateball.com.au)
 <br/>ABN 90 330 745 920 
 ###**ACA National Head Office**
 <br/>ACA Secretary/Administrative Officer
