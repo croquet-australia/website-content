@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2015-09-20T12:27:26.8031672+10:00
+Published: 2015-09-20T12:31:35.9786225+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,7 +13,7 @@ Author:
 <br/>Trading as **Croquet** Australia and Gateball Australia
 <br/>ABN 90 330 745 920 
 ###**ACA National Head Office**
-<br/>Administrative Officer
+<br/>ACASecretary/Administrative Officer
 <br/>[Susan Linge](mailto:admin@croquet-australia.com.au)
 <br/>PO BOX 254, DICKSON ACT 2602
 <br/>Mob: 0457 678 380
