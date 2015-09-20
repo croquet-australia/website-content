@@ -1,13 +1,14 @@
 ---
 Title: governance/contact us
-Published: 2015-09-20T12:24:27.0051086+10:00
+Published: 2015-09-20T12:25:57.0863563+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<br/><img src="/aca-logo.jpg" alt="ACA Logo" title="ACA Logo"/> ##**AUSTRALIAN CROQUET ASSOCIATION**
+<br/><img src="/aca-logo.jpg" alt="ACA Logo" title="ACA Logo"/> 
+##**AUSTRALIAN CROQUET ASSOCIATION**
 <br/> Incorporated in the ACT 
 <br/>Trading as **Croquet** Australia and Gateball Australia
 <br/>ABN 90 330 745 920 
@@ -60,14 +61,12 @@ Author:
 <br/>Mob: 0412 178 254
 <br/>Bob Godfrey
 <br/>Greg Diprose
-
 ###**Tournament Committee**
 <br/>[Trevor Bassett (Chair)](mailto:tournaments@croquet-australia.com.au)
 <br/>Mob: 0410 034 008
 <br/>Kevin Beard 
 <br/>Terry Ericson
 <br/>Peter Landrebe 
-
 ###**AC Selection Committee**
 <br/>[Stephen Richards (Chair)](Mailto:acselectors@croquet-australia.com.au)
 <br/>Ph: 02.6281 3703; Mob: 0407 300 110
@@ -75,7 +74,6 @@ Author:
 <br/>Anne Quinn
 <br/>Captain - Ian Dumergue 
 <br/>HPM AC - Peter Landrebe
-
 ###**GC Selection Committee**
 <br/>[John Compton (Chair)](mailto:gcselectors@croquet-australia.com.au)
 <br/>Ph: 02.4933 5846 
@@ -83,7 +81,6 @@ Author:
 <br/>Lester Hughes
 <br/>Captain – Peter Landrebe 
 <br/>HPM GC
-
 <a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
 <br/>**High Performance Manager – Association Croquet**
