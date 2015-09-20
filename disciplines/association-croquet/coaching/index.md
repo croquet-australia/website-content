@@ -1,6 +1,6 @@
 ---
 Title: Coaching Association Croquet (AC)
-Published: 2015-09-20T12:09:14.5735103+10:00
+Published: 2015-09-20T12:09:42.7934516+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -17,4 +17,4 @@ Author:
 |[New South Wales Director of Coaching](mailto:johnpiggott@bigpond.com)|Barb Piggott|0427 629 953|
 |[Victoria Co-ordinator of AC](mailto:associationcroquet@croquetvic.asn.au)|John Grieve|03.9397 2632|
 |[Tasmania Director of Coaching](mailto:btbunch@vision.net.au)|Sue Beattie|03.6229 5702|
-|[Western Australia Director of Coaching]|Vacant||
+|Western Australia Director of Coaching|Vacant||
