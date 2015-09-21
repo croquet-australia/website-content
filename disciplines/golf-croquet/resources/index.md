@@ -1,6 +1,6 @@
 ---
 Title: disciplines/golf croquet/resources/index
-Published: 2015-09-20T15:14:50.0784959+10:00
+Published: 2015-09-21T10:29:18.4483330+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -19,3 +19,5 @@ Author:
 <br/>- [Golf Croquet - Glossary](/gc-glossary-as-7-june.pdf)
 
 <br/>- [*ACA Refereeing Regulations*](referee-umpire-activity-record-version-4.pdf)
+
+<br/>- [The Golf Croquet Refereeing Manual](/disciplines/golf-croquet/refereeing/gc-refereeing-manual.pdf), dated April, 2015
