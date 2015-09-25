@@ -1,6 +1,6 @@
 ---
 Title: "Victors – Men’s and Women's Singles"
-Published: 2015-09-25T10:18:38.0592008+10:00
+Published: 2015-09-25T10:20:14.3995456+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -11,7 +11,6 @@ The men’s event was held in Hobart whilst the women competed in Launceston.
 
 Congratulations to Chris McWhirter the first player to win three consecutive titles.  It was a hard fought battle going to the best of five matches 6-7, 7-5, 7-3, 5-7, 7-3.  Commiserations to Runner Up Terry Hopkins.
 
-<img src=“/chris-mcwhirter-and-terry-hopkins.jpg” alt=“Terry Hopkins and Chris McWhirter” title=“Terry Hopkins and Chris McWhirter sign their cards at the conclusion of the Men’s Singles”/>
 
 <img src="/chris-mcwhirter-and-terry-hopkins.jpg" alt="Terry Hopkins and Chris McWhirter" title="Terry Hopkins and Chris McWhirter sign their cards at the conclusion of the Men’s Singles"/>
 
@@ -25,7 +24,7 @@ Congratulations to Chris McWhirter the first player to win three consecutive tit
 
 The Women’s final this year was a repeat of last years with Anne Quinn and Wendy Dickson vying for first place.  Congratulations to Wendy Dickson who has also now won three titles and commiserations to Anne Quinn.   
 
-<img src=“/wendy-dickson.jpg” alt=“Wendy Dickson” title=“Wendy Dickson after receiving her Women’s singles title”
+<img src="/wendy-dickson.jpg" alt="Wendy Dickson" title="Wendy Dickson after receiving her Women’s singles title"/>
 
 
 <br/>First Place – Wendy Dickson
