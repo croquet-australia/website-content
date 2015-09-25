@@ -1,6 +1,6 @@
 ---
 Title: "Victors – Men’s and Women's Singles"
-Published: 2015-09-25T10:16:44.8500362+10:00
+Published: 2015-09-25T10:18:38.0592008+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,7 +13,7 @@ Congratulations to Chris McWhirter the first player to win three consecutive tit
 
 <img src=“/chris-mcwhirter-and-terry-hopkins.jpg” alt=“Terry Hopkins and Chris McWhirter” title=“Terry Hopkins and Chris McWhirter sign their cards at the conclusion of the Men’s Singles”/>
 
-<img src=”/chris-mcwhirter-and-terry-hopkins.jpg” alt=”Terry Hopkins and Chris McWhirter” title=”Terry Hopkins and Chris McWhirter sign their cards at the conclusion of the Men’s Singles/>
+<img src="/chris-mcwhirter-and-terry-hopkins.jpg" alt="Terry Hopkins and Chris McWhirter" title="Terry Hopkins and Chris McWhirter sign their cards at the conclusion of the Men’s Singles"/>
 
 <br/>First Place – Chris McWhirter
 <br/>Second Place – Terry Hopkins
