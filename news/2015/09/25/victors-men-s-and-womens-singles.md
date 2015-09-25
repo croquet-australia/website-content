@@ -1,6 +1,6 @@
 ---
-Title: "Victors – Men’s and Womens’ Singles"
-Published: 2015-09-25T10:12:14.0614944+10:00
+Title: "Victors – Men’s and Women's Singles"
+Published: 2015-09-25T10:16:44.8500362+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,6 +13,8 @@ Congratulations to Chris McWhirter the first player to win three consecutive tit
 
 <img src=“/chris-mcwhirter-and-terry-hopkins.jpg” alt=“Terry Hopkins and Chris McWhirter” title=“Terry Hopkins and Chris McWhirter sign their cards at the conclusion of the Men’s Singles”/>
 
+<img src=”/chris-mcwhirter-and-terry-hopkins.jpg” alt=”Terry Hopkins and Chris McWhirter” title=”Terry Hopkins and Chris McWhirter sign their cards at the conclusion of the Men’s Singles/>
+
 <br/>First Place – Chris McWhirter
 <br/>Second Place – Terry Hopkins
 <br/>Third Place – Lester Hughes
@@ -23,7 +25,7 @@ Congratulations to Chris McWhirter the first player to win three consecutive tit
 
 The Women’s final this year was a repeat of last years with Anne Quinn and Wendy Dickson vying for first place.  Congratulations to Wendy Dickson who has also now won three titles and commiserations to Anne Quinn.   
 
-<img src=“/wendy-dickson.jpg” alt=“Wendy Dickson” title =“Wendy Dickson after receiving her Women’s singles title”
+<img src=“/wendy-dickson.jpg” alt=“Wendy Dickson” title=“Wendy Dickson after receiving her Women’s singles title”
 
 
 <br/>First Place – Wendy Dickson
