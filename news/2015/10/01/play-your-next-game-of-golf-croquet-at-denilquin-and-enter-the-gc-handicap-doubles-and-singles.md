@@ -1,6 +1,6 @@
 ---
-Title: Play your next game of Golf Croquet at Denilquin and enter the GC Handicap Doubles and Singles
-Published: 2015-10-01T16:19:42.1346525+10:00
+Title: Play your next game of Golf Croquet at Deniliquin and enter the GC Handicap Doubles and Singles
+Published: 2015-10-01T16:20:51.2739127+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
