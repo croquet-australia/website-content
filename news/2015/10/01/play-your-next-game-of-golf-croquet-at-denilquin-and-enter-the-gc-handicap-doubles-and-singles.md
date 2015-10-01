@@ -1,6 +1,6 @@
 ---
 Title: Play your next game of Golf Croquet at Denilquin and enter the GC Handicap Doubles and Singles
-Published: 2015-10-01T16:18:33.6978335+10:00
+Published: 2015-10-01T16:19:42.1346525+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -15,6 +15,6 @@ Doubles play on Tuesday will be suspended between 1400 hours and 1530 hours for 
 
 Deniliquin is situated on the Edward River providing an idyllic and bucolic backdrop to your croquet.
 
-<img scr="/edward-river.png" alt="Edwards River" title="Edwards River at Deniliquin"/>
+<img src="/edward-river.png" alt="Edwards River" title="Edwards River at Deniliquin"/>
 
 <br/>Entries close on **Thursday 15 October, 2015**
