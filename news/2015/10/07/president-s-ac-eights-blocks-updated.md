@@ -1,6 +1,6 @@
 ---
-Title: "President’s AC Eights- Blocks updated"
-Published: 2015-10-07T15:47:17.6546549+11:00
+Title: "President’s AC Eights – Blocks updated"
+Published: 2015-10-07T15:48:19.5542424+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
