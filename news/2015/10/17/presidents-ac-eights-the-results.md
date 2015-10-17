@@ -1,6 +1,6 @@
 ---
 Title: President's AC Eights - the Results
-Published: 2015-10-17T13:46:43.3995153+11:00
+Published: 2015-10-17T13:52:34.4724867+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -25,4 +25,4 @@ Receiving the silver medal was David Wise(SA).
 <br/>Winner of the Women’s Eights and receiving the Jean Armstrong Bowl was Kerri-Ann Organ (VIC).
 Receiving the silver medal was Virginia Arney(SA).
 
-<img src="presidents-ac-eights-david-wise-stephen-pearce-kerri-ann-organ-and-virginia-arney.jpg" alt="Winners and Runners up Third Eight and Women’s Eights" title="David Wise, Stephen Pearce, Kerri-Ann Organ and Virginia Arney"/>
+<img src="presidents-ac-eights-david-wise-stephen-pearce-kerri-ann-organ-and-virginia-arney-2.jpg" alt="Winners and Runners up Third Eight and Women’s Eights" title="David Wise, Stephen Pearce, Kerri-Ann Organ and Virginia Arney"/>
