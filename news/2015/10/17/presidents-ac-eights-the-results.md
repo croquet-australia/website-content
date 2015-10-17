@@ -1,6 +1,6 @@
 ---
 Title: President's AC Eights - the Results
-Published: 2015-10-17T12:28:04.1669375+11:00
+Published: 2015-10-17T12:41:09.3912183+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
