@@ -1,6 +1,6 @@
 ---
 Title: President's AC Eights - the Results
-Published: 2015-10-17T13:52:34.4724867+11:00
+Published: 2015-10-20T10:49:16.3502045+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -12,7 +12,7 @@ The President’s AC Eights were held at Cairnlea from Friday 9 to Monday 12 Oct
 <br/>As usual the tournament was fiercely competitive and winning an Eight is a feather in the cap for any player.  This year the victors were – 
 
 <br/>Winner of the First Eight and receiving the Eddie Hunt Trophy and gold medal was Robert Fletcher (VIC).
-Receiving the silver medal was Stephen Forster (NSW).
+Receiving the silver medal was Stephen Forster (VIC).
 
 <br/>Winner of the Second Eight and receiving the Tom Howat Cup and gold medal was Alan Honey (NSW).
 Receiving the silver medal was Alan Walsh also from New South Wales.
