@@ -1,6 +1,6 @@
 ---
 Title: disciplines/association croquet/resources/index
-Published: 2015-09-21T09:20:28.0922396+10:00
+Published: 2015-10-29T14:41:30.5350790+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -12,6 +12,6 @@ Author:
 
 <br/>- [ORLC *Official Ruling Laws Croquet* September 2009](resources/orlc-september-2009.pdf).
 
-<br/>- [*ACA Refereeing Regulations*](resources/aca-refereeing-regulations-april-2015.pdf).
+<br/>- [*ACA Refereeing Regulations*](resources/aca-refereeing-regulations-october-2015.pdf').
 
 <br/>- [*Association Croquet – Referee and Umpire Activity Record*](resources/referee-umpire-activity-record-version-4.pdf).
