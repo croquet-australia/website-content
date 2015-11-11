@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2015-11-11T16:12:12.2293161+11:00
+Published: 2015-11-11T16:13:04.5871657+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -19,7 +19,7 @@ Author:
 <br/>Mob: 0457 678 380
 <br/>Website: www.croquet-australia.com.au
 
-<br/>**Finance Assistant**
+<br/>Finance Assistant
 <br/>[Anne Mann](mailto:finance@croquet-australia.com.au)
 <br/>Mob: 0457 678 380
 
