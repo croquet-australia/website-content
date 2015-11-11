@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2015-09-20T17:51:44.7702289+10:00
+Published: 2015-11-11T16:12:12.2293161+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -18,6 +18,10 @@ Author:
 <br/>PO BOX 254, DICKSON ACT 2602
 <br/>Mob: 0457 678 380
 <br/>Website: www.croquet-australia.com.au
+
+<br/>**Finance Assistant**
+<br/>[Anne Mann](mailto:finance@croquet-australia.com.au)
+<br/>Mob: 0457 678 380
 
 ##**BOARD**
 ###**Chair**
@@ -124,14 +128,6 @@ Author:
 <br/>**Archivist**
 <br/>[Martin Clarke](mailto:archivist@croquet-australia.com.au)
 <br/>Ph: 08.9529 4370
-
-<br/>**Insurance Officer**
-<br/>[Susan Linge](mailto:insurance@croquet-australia.com.au)
-<br/>Mob: 0457 678 380
-
-<br/>**Assistant Treasurer**
-<br/>[Susan Linge](mailto:admin@croquet-australia.com.au)
-<br/>Mob: 0457 678 380
 
 <br/>**Editor and Subscription Manager**
 <br/>[Carolyn Ribone](mailto:magazine@croquet-australia.com.au)
