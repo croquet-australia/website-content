@@ -1,6 +1,6 @@
 ---
 Title: Golf Croquet Trans-Tasman Test Series starts on Monday 30 November
-Published: 2015-11-26T14:58:57.4758150+11:00
+Published: 2015-11-26T15:02:12.6957815+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,7 +13,7 @@ Author:
 
 In keeping with this tradition eight of Australia’s top Golf Croquet players – Peter Landrebe (Captain) NSW, Kevin Beard VIC, Chris McWhirter WA, John van der Touw VIC, Wendy Dickson VIC, Rosie Landrebe NSW, Anne Quinn VIC and Alison Sharpe NSW – fly across the Tasman to Nelson in New Zealand’s South Island on Friday to play for the inaugural Golf Croquet Trans-Tasman Trophy.
 
-<img src="/gc-tt-team-x1v1.jpg" alt="Australian Team" title="Back Row L-R John Compton (Team Manager), Fleur Brockway (Reserve), Chris McWhirter, Alison Sharpe, Kevin Beard, Lester Hughes (Reserve). Front Row L-R John van der Touw, Wendy Dickson, Peter Landrebe (Captain), Anne Quinn, Rosemary Landrebe"/>
+<img src="/gc-tt-team-x1v2.jpg" alt="Australian Team" title="Back Row L-R John Compton (Team Manager), Fleur Brockway (Reserve), Chris McWhirter, Alison Sharpe, Kevin Beard, Lester Hughes (Reserve). Front Row L-R John van der Touw, Wendy Dickson, Peter Landrebe (Captain), Anne Quinn, Rosemary Landrebe"/>
 
 <br/>Our players have been preparing for several months and they are ready to go into battle and vie for a place in the croquet history books.
 
