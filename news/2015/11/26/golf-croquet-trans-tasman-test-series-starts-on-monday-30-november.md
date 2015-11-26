@@ -1,6 +1,6 @@
 ---
 Title: Golf Croquet Trans-Tasman Test Series starts on Monday 30 November
-Published: 2015-11-26T15:02:12.6957815+11:00
+Published: 2015-11-26T15:02:15.9175385+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
