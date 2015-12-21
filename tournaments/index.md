@@ -1,9 +1,9 @@
 ---
 Title: Tournaments index
-Published: 2015-12-21T16:09:35.6186220+11:00
+Published: 2015-12-21T16:20:49.8825711+11:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -23,9 +23,16 @@ Please encourage other Players at your club to enter!  You could suggest, if the
 
 If you have any questions contact [Peter Freer](mailto:events@croquet-australia.com.au), Chair, Events Committee.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-
-
+## Future Tournaments
 
 [Tournament Calendar](/2015-2019-aca-tournament-program-as-at-4-december.pdf) as at 4 December, 2015
 
