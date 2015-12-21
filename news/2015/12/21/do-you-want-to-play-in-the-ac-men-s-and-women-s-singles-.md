@@ -1,13 +1,13 @@
 ---
 Title: "Do you want to play in the AC Men’s and Women’s Singles?"
-Published: 2015-12-21T16:18:18.0470149+11:00
+Published: 2015-12-21T16:30:30.4923879+11:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-Online entries are now [open!](https://croquet-australia.azurewebsites.net/tournaments)
+Online entries are now [open!](/tournaments)
 
 <img src="/victorian-croquet-centre-front-entrance.jpg" alt="Victorian Croquet Centre" title="Victorian Croquet Centre, Cairnlea"/>
 
