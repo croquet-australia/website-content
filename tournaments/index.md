@@ -1,13 +1,13 @@
 ---
 Title: Tournaments index
-Published: 2015-12-21T16:22:24.2679973+11:00
+Published: 2015-12-21T16:22:48.9239095+11:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-AC [Men’s](/tournaments/2016/ac/mens-open) and [Women’s](/tournaments/2016/ac/womens-open) Singles
+## AC [Men’s](/tournaments/2016/ac/mens-open) and [Women’s](/tournaments/2016/ac/womens-open) Singles
 
 The Championships have been played across Australia for the past 46 years and in 2016, Croquet Victoria is hosting them at the Victorian Croquet Centre at Cairnlea.
 
