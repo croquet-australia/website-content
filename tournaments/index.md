@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2015-12-21T16:22:48.9239095+11:00
+Published: 2015-12-21T16:24:35.7227601+11:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -22,6 +22,8 @@ Registration is between 2 and 5pm on Friday 11 March which provides the opportun
 Please encourage other Players at your club to enter!  You could suggest, if there is some trepidation to compete in a National event, for their first experience they could play in the Plate only?  [Download](/ac-mens-womens-open-2015.pdf) print and place on your noticeboard!
 
 If you have any questions contact [Peter Freer](mailto:events@croquet-australia.com.au), Chair, Events Committee.
+
+Enter the event now! <a href="womens-open" >Women's Open</a> | <a href="mens-open">Men's Open</a>
 
 <br />
 <br />
