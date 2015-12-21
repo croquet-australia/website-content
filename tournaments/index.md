@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2015-12-21T16:24:35.7227601+11:00
+Published: 2015-12-21T16:25:34.7295090+11:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -23,7 +23,7 @@ Please encourage other Players at your club to enter!  You could suggest, if the
 
 If you have any questions contact [Peter Freer](mailto:events@croquet-australia.com.au), Chair, Events Committee.
 
-Enter the event now! <a href="womens-open" >Women's Open</a> | <a href="mens-open">Men's Open</a>
+Enter an event now! <a href="mens-open">Men's Open</a> | <a href="womens-open" >Women's Open</a>
 
 <br />
 <br />
