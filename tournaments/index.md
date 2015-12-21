@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2015-12-21T16:20:49.8825711+11:00
+Published: 2015-12-21T16:22:24.2679973+11:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -32,7 +32,7 @@ If you have any questions contact [Peter Freer](mailto:events@croquet-australia.
 <br />
 <br />
 
-## Future Tournaments
+## Tournament Calendar
 
 [Tournament Calendar](/2015-2019-aca-tournament-program-as-at-4-december.pdf) as at 4 December, 2015
 
