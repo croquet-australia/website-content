@@ -1,9 +1,9 @@
 ---
 Title: Tournaments index
-Published: 2015-12-21T16:28:25.4055116+11:00
+Published: 2015-12-21T18:22:34.6607105+11:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -23,7 +23,7 @@ Please encourage other Players at your club to enter!  You could suggest, if the
 
 If you have any questions contact [Peter Freer](mailto:events@croquet-australia.com.au), Chair, Events Committee.
 
-Enter an event now! <a href="mens-open">Men's Open</a> | <a href="womens-open" >Women's Open</a>
+Enter an event now! <a href="/tournaments/2016/ac/mens-open">Men's Open</a> | <a href="/tournaments/2016/ac/womens-open" >Women's Open</a>
 
 Please note if you wish to attend just the functions for the Championship you may use the entry form to confirm your attendance.
 
