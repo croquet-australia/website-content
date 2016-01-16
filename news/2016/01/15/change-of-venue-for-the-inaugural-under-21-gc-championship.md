@@ -1,6 +1,6 @@
 ---
 Title: Change of Venue for the Inaugural Under 21 GC Championship
-Published: 2016-01-15T16:17:28.8459637+11:00
+Published: 2016-01-16T19:56:38.1754270+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,4 +13,4 @@ Croquet Australia’s sympathies go to the Maitland Croquet Club as its members 
 
 Anyone wishing to see some of the most talented young croquet players in Australia are more than welcome to visit the club located at 25 National Part Street, Hamilton East.
 
-A copy of the [Program](/aca-tournament-calendar-as-at-14-january-2016.pdf) can be [downloaded](/aca-tournament-calendar-as-at-14-january-2016.pdf).
+A copy of the [Program](/2016-u21-gc-program-final.pdf) can be [downloaded](/2016-u21-gc-program-final.pdf)
