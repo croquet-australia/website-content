@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-02-08T11:46:26.0641881+11:00
+Published: 2016-02-08T11:46:38.9476176+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -103,7 +103,7 @@ Author:
 
 <br/>**National Refereeing Director Golf Croquet**
 <br/>[Vacant](mailto:ndrgc@croquet-australia.com.au)
-<br/>Ph: 07.5443 3094
+
 
 <br/>**National Coaching Director Association Croquet**
 <br/>[Greg Whymark](mailto:ncdac@croquet-australia.com.au)
