@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2016-02-14T12:33:04.5833213+11:00
+Published: 2016-02-14T12:33:36.9113314+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -27,10 +27,6 @@ Enter an event now! <a href="/tournaments/2016/ac/mens-open">Men's Open</a> | <a
 
 Please note if you wish to attend just the functions for the Championship you may use the entry form to confirm your attendance.
 
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
