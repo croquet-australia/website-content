@@ -1,6 +1,6 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2016-02-14T12:21:44.8777495+11:00
+Published: 2016-02-14T12:22:25.2174211+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -35,7 +35,7 @@ Author:
 
 **2014**
 
-</br/>[Member Protection Policy - June 2014](/aca-mpp-approved-by-asc-may-2014-copy.pdf)
+[Member Protection Policy - June 2014](/aca-mpp-approved-by-asc-may-2014-copy.pdf)
 
 **2012**
 
