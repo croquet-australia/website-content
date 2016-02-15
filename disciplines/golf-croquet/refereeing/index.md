@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2016-02-15T16:33:55.9746491+11:00
+Published: 2016-02-15T16:34:34.7825533+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -33,8 +33,7 @@ Pages of the Manual may be amended periodically as the rules are revised, polici
 | [South Australia Co-ordinator of Refereeing](berniepfitzner@adam.com.au) | Bernie Pfitzner | 08.8554 3356 0412 236 673 |
 | Western Australia Director of Refereeing | Vacant | - |
 
-###Golf Croquet Rules
-<br/>- [*The Rules of Golf Croquet* November 2013, Adopted ACA 1 January, 2014](/the-rules-of-golf-croquet-aca-final-6-2-effective-1-january-2014docx.pdf).
+###Golf Croquet Rules<br/>- [*The Rules of Golf Croquet* November 2013, Adopted ACA 1 January, 2014](/the-rules-of-golf-croquet-aca-final-6-2-effective-1-january-2014docx.pdf).
 
 ###WCF Official Rulings
 **2016**
