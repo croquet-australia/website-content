@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2016-02-15T16:50:04.0884815+11:00
+Published: 2016-02-15T16:50:18.1300158+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -26,7 +26,7 @@ Pages of the Manual may be amended periodically as the rules are revised, polici
 | | |
 |-|-|
 | [National Director of Refereeing](mailto:ndrgc@croquet-australia.com.au) | Vacant | |
-| [Queensland Director of Refereeing](mailto:refereeing@croquetqld.org) | Doug Wiliams| |
+| [Queensland Director of Refereeing](mailto:refereeing@croquetqld.org) | Doug Wiliams | |
 | [New South Wales Director of Refereeing](mailto:smith.bevj@gmail.com) | Bev Smith  | 02.4933 6164 |
 | [Victoria Co-ordinator of Refereeing](mailto:john.vandertouw@gmail.com) | John van der Touw| 03.9803 3433|
 | [Tasmania Director of Refereeing](mailto:gdenehey@bigpond.net.au) | Graeme Denehey | 03.6229 6318 |
