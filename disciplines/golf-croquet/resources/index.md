@@ -1,6 +1,6 @@
 ---
 Title: disciplines/golf croquet/resources/index
-Published: 2016-02-15T16:22:46.6542856+11:00
+Published: 2016-02-15T16:24:16.2512168+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -22,10 +22,10 @@ Author:
 
 <br/>- [Handicap Card – GC](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
 
-##WCF Official Rulings
+###WCF Official Rulings
 **2016**
-<br/>- [WCF Official Rulings on the 2013 edition of the Rules of Golf Croquet – 2016](/2016-gc-official-rulings.pdf)
-<br/>- Note - The Rulings from 2015 are incorporated in the document and the 2016 Rulings are underlined.
+<br/>- [*Official Rulings* on the 2013 edition of the Rules of Golf Croquet – 2016](/2016-gc-official-rulings.pdf)
+<br/>  Note - The Rulings from 2015 are incorporated in the document and the 2016 Rulings are underlined.
 
 **2015**
 <br/>- [*Official Rulings* on the 2013 edition of the Rules of Golf Croquet. Effective February, 2015](/2015-official-rulings.pdf)
