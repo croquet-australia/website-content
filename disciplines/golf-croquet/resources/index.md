@@ -1,6 +1,6 @@
 ---
 Title: disciplines/golf croquet/resources/index
-Published: 2016-02-15T16:24:16.2512168+11:00
+Published: 2016-02-15T16:25:02.1169287+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
