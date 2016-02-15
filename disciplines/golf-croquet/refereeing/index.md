@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2016-02-15T17:15:53.5820309+11:00
+Published: 2016-02-15T17:17:20.2333107+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
