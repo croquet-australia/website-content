@@ -1,6 +1,6 @@
 ---
 Title: Coaching Golf Croquet (GC)
-Published: 2016-02-15T17:14:23.8619935+11:00
+Published: 2016-02-15T17:14:42.8152560+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,7 +13,7 @@ Author:
 
 | | |
 |-|-|
-|[National Director of Coaching](mailto:ncdgc@croquet-australia.com.au)|Barb Piggot t|0427 629 953|
+|[National Director of Coaching](mailto:ncdgc@croquet-australia.com.au)|Barb Piggott |0427 629 953|
 |[Queensland Director of Coaching](mailto:coaching@croquetqld.org)|David Reid |0416 035 169|
 |[New South Wales Director of Coaching](mailto:johnpiggott@bigpond.com)|Barb Piggott |0427 629 953|
 |[Victoria State Co-ordinator of Golf Croquet](mailto:golfcroquet@croquetvic.asn.au)|Lorraine Gutcher |03.5134 4990|
