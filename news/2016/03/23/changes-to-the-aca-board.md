@@ -1,6 +1,6 @@
 ---
 Title: Changes to the ACA Board
-Published: 2016-03-23T16:21:06.5184700+11:00
+Published: 2016-03-26T18:05:55.3820169+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -17,7 +17,7 @@ The newly formed Board met in the afternoon and the positions of Deputy Chair, T
 
 Robyn Wallace, Chair
 <br/>Megan Fardon, Deputy Chair
-<br/>Don Close, Treasurer
+<br/>Don Close, Treasurer Designate
 <br/>Mike Cohn, Director
 <br/>Jim Saunders, Director
 <br/>Graeme Thomas, Director
