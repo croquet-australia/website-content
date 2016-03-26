@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-02-08T11:46:38.9476176+11:00
+Published: 2016-03-26T18:04:38.1964144+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -23,40 +23,42 @@ Author:
 <br/>[Anne Mann](mailto:finance@croquet-australia.com.au)
 <br/>Mob: 0457 678 380
 
-##**BOARD**
+##**DIRECTORS**
+<br/> as at the conclusion of the AGM held on Monday 21 March, 2015
 ###**Chair**
 <br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au)
 <br/>9 The Avenue, LORN NSW 2320
 <br/>Ph: 02.4934 1135; Mob: 0412 380 313
 
 ###**Directors**
-<br/>[Bob Godfrey](mailto:bob.godfrey@croquet-australia.com.au)
-<br/>53/12 Casino Rise, PROSPECT VALE TAS 7250
-<br/>Ph: 03.6340 1643; Mob: 0408 419 959
+<br/>[Megan Fardon](mailto:megan.fardon@croquet-australia.com.au), Deputy Chair
+<br/>10 Solomon Street, MOSMAN PARK WA 6012
+<br/>Ph: 08.9384 8053; Mob: 0403 981 866
+
+<br/> [Don Close](mailto:don.close@croquet-australia.com.au), Treasurer Designate
+<br/>156 Kent Street, ROCKHAMPTON QLD 4700
+<br/>Ph: 07.4922 4111; Mob: 0418 791 486
+
+<br/>[Mike Cohn](mailto:mike.cohn@croquet-australia.com.au)
+<br/>Mob:0412 294 150
 
 <br/>[Jim Saunders](mailto:jim.saunders@croquet-australia.com.au)
 <br/>8 Terrigal Court, LEOPOLD VIC 3224
 <br/>Ph: 03.5250 5250; Mob: 0417 541 311
 
+<br/>[Graeme Thomas](mailto:graeme.thomas@croquet-australia.com)
+<br/>Mob:0408 843 526
+
+<br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
+<br/>Mob:0405 005 019
+
 <br/>[Tricia Vierra](mailto:tricia.vierra@croquet-australia.com.au)
 <br/>16 Goodwin Street, TEWANTIN QLD 4565
 <br/>Ph: 07.5455 6925; Mob: 0478 296 678
 
-<br/> [Don Close](mailto:don.close@croquet-australia.com.au)
-<br/>156 Kent Street, ROCKHAMPTON QLD 4700
-<br/>Ph: 07.4922 4111; Mob: 0418 791 486
 
-<br/>[Jim Clement](mailto:jim.clement@croquet-australia.com.au)
-<br/>55 High Street, SARSFIELD VIC 3875
-<br/>Ph: 03.5156 8149
 
-<br/>[David Taylor](mailto:david.taylor@croquet-australia.com.au)
-<br/>Apartment 114, 2 Jack Fox Drive, NORTH BRIGHTON SA 5048
-<br/>Mob: 0400 508 914
 
-<br/>[Megan Fardon](mailto:megan.fardon@croquet-australia.com.au)
-<br/>10 Solomon Street, MOSMAN PARK WA 6012
-<br/>Ph: 08.9384 8053; Mob: 0403 981 866
 
 <a name="committees"></a>
 ##COMMITTEES
