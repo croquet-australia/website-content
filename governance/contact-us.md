@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-03-26T18:04:38.1964144+11:00
+Published: 2016-03-26T18:06:50.2987186+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -23,8 +23,7 @@ Author:
 <br/>[Anne Mann](mailto:finance@croquet-australia.com.au)
 <br/>Mob: 0457 678 380
 
-##**DIRECTORS**
-<br/> as at the conclusion of the AGM held on Monday 21 March, 2015
+##**DIRECTORS** (as at the conclusion of the AGM held on Monday 21 March, 2016)
 ###**Chair**
 <br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au)
 <br/>9 The Avenue, LORN NSW 2320
