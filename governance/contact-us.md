@@ -1,9 +1,9 @@
 ---
 Title: governance/contact us
-Published: 2016-03-26T18:07:41.2425406+11:00
+Published: 2016-03-29T11:58:19.8239657+11:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
