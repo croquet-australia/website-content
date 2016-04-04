@@ -1,6 +1,6 @@
 ---
 Title: Come and share the spirit of competition in the GC Open Doubles and Singles
-Published: 2016-04-04T17:37:39.4832587+10:00
+Published: 2016-04-04T17:40:19.3867607+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -9,13 +9,14 @@ Author:
 ---
 # Come and share the spirit of competition in the GC Open Doubles and Singles
 
+<a href="/tournaments/2016/gc/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Doubles</a> <a href="/tournaments/2016/gc/open-singles" class="btn btn-primary btn-lg" role="button">Enter Singles</a>
+
 The competitive spirit is in the air as Golf Croquet Players across Australia prepare themselves to compete in the Australian Golf Croquet Open Doubles and Singles Championships being held at the Victorian Croquet Centre – the largest croquet-specific venue in the Southern Hemisphere.
 
 <img src="/victorian-croquet-centre-front-entrance.jpg" alt="Victorian Croquet Centre" title="Victorian Croquet Centre, Cairnlea"/>
 
 Entries can be completed using the on-line forms.  
 
-<a href="/tournaments/2016/gc/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Doubles</a>
 
 The Doubles commence on Saturday 7 May and concludes on Tuesday 10 May.  Players will notice several improvements to the on-line doubles entry form and several options are offered –
 
@@ -40,3 +41,5 @@ The Singles Competition begins on Wednesday 11 May and finishes on Sunday 15 May
 If players have any concerns or difficulties with their on-line entries please contact Peter Freer, Chair of the Events Committee by email events@croquet-australia.com.au
 
 CLOSING DATE FOR ENTRIES IS THURSDAY 21 APRIL – Midnight WA time
+
+<a href="/tournaments/2016/gc/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Doubles</a> <a href="/tournaments/2016/gc/open-singles" class="btn btn-primary btn-lg" role="button">Enter Singles</a>
