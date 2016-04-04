@@ -1,6 +1,6 @@
 ---
 Title: Come and share the spirit of competition in the GC Open Doubles and Singles
-Published: 2016-04-04T17:49:00.4467503+10:00
+Published: 2016-04-04T17:50:18.9585457+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -16,6 +16,8 @@ The competitive spirit is in the air as Golf Croquet Players across Australia pr
 <img src="/victorian-croquet-centre-front-entrance.jpg" alt="Victorian Croquet Centre" title="Victorian Croquet Centre, Cairnlea" style="margin-bottom: 1em" />
 
 Entries can be completed using the on-line forms.
+
+## Doubles
 
 The Doubles commence on Saturday 7 May and concludes on Tuesday 10 May.  Players will notice several improvements to the on-line doubles entry form and several options are offered –
 
@@ -35,6 +37,8 @@ In summary, if a player is paying for themselves and their partner only one entr
 If a player wishing to play in the Doubles and is yet to find a partner please contact Peter Freer, Chair of the Events Committee by [email](mailto:events@croquet-australia.com.au) before making an on-line entry.
 
 The presentations after the conclusion of the Doubles provides an opportunity for players to wish bon voyage and bonne chance to the Golf Croquet Team – Chris McWhirter (Captain), Wendy Dickson, Anne Quinn and Lester Hughes with John van der Touw (Team Manager and Playing Reserve) – who are representing Australia at the GC Teams World Championship.  The five leave from Tullamarine later that night.
+
+## Singles
 
 The Singles Competition begins on Wednesday 11 May and finishes on Sunday 15 May and the on-line entry form is also live.
 
