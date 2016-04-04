@@ -1,6 +1,6 @@
 ---
 Title: Come and share the spirit of competition in the GC Open Doubles and Singles
-Published: 2016-04-04T18:13:26.8489984+10:00
+Published: 2016-04-04T18:17:51.1014656+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -46,7 +46,7 @@ If players have any concerns or difficulties with their on-line entries please c
 
 ## The more the merrier
 
-Please encourage other Players at your club to enter!  You could suggest, if there is some trepidation to compete in a National event, for their first experience they could play in the Plate only?  [Download Doubles](/2016-gc-open-doubles.pdf) & [Download Singles](/2016-gc-open-singles.pdf)  print and place on your noticeboard!
+Please encourage other Players at your club to enter!  You could suggest, if there is some trepidation to compete in a National event, for their first experience they could play in the Plate only?  [Download Doubles](/2016-gc-open-doubles.pdf) & [Download Singles](/tournaments/2016-gc-open-singles.pdf)  print and place on your noticeboard!
 
 ## Closing Date
 CLOSING DATE FOR ENTRIES IS THURSDAY 21 APRIL – Midnight WA time
