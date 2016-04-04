@@ -1,45 +1,42 @@
 ---
-Title: Tournaments index
-Published: 2016-02-14T12:35:52.9621907+11:00
+Title: Come and share the spirit of competition in the GC Open Doubles and Singles
+Published: 2016-04-04T17:37:39.4832587+10:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-## AC [Men’s](/tournaments/2016/ac/mens-open) and [Women’s](/tournaments/2016/ac/womens-open) Singles
+# Come and share the spirit of competition in the GC Open Doubles and Singles
 
-The Championships have been played across Australia for the past 46 years and in 2016, Croquet Victoria is hosting them at the Victorian Croquet Centre at Cairnlea.
+The competitive spirit is in the air as Golf Croquet Players across Australia prepare themselves to compete in the Australian Golf Croquet Open Doubles and Singles Championships being held at the Victorian Croquet Centre – the largest croquet-specific venue in the Southern Hemisphere.
 
- <img src="/victorian-croquet-centre-front-entrance.jpg" alt="Victorian Croquet Centre" title="Victorian Croquet Centre, Cairnlea"/>
+<img src="/victorian-croquet-centre-front-entrance.jpg" alt="Victorian Croquet Centre" title="Victorian Croquet Centre, Cairnlea"/>
 
-The Centre has twelve full-sized courts and is the largest croquet facility in the Country.
+Entries can be completed using the on-line forms.  
 
-The Men’s and Women’s Singles are bookended by the Gold Medal and Eire Cup.  The first day of the Gold Medal is Wednesday 9 March and the final day of the Eire Cup is Sunday 20 March.  The singles commence on Saturday 12 March and finish on Tuesday 15 March.
+<a href="/tournaments/2016/gc/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Doubles</a>
 
-Registration is between 2 and 5pm on Friday 11 March which provides the opportunity for players to practise and familiarise themselves with the lawns and hoops.  The hoops being used are Quadways.
+The Doubles commence on Saturday 7 May and concludes on Tuesday 10 May.  Players will notice several improvements to the on-line doubles entry form and several options are offered –
 
-Please encourage other Players at your club to enter!  You could suggest, if there is some trepidation to compete in a National event, for their first experience they could play in the Plate only?  [Download](/ac-mens-womens-open-2015.pdf) print and place on your noticeboard!
+1  Pay entry fees for both yourself and your partner
+Or
+2  Pay only for yourself.
 
-If you have any questions contact [Peter Freer](mailto:events@croquet-australia.com.au), Chair, Events Committee.
+1  Paying for yourself and partner
+You will be asked to complete details for both yourself and your partner including respective phone contacts, email addresses and handicaps.  Once you have chosen your method of payment you will receive an automatically generated email acknowledging receipt of your registration and specific instructions for paying the entry fees.  Your partner will also receive an email confirming they too have been entered in the Golf Croquet Open Doubles.
 
-Enter an event now! <a href="/tournaments/2016/ac/mens-open">Men's Open</a> | <a href="/tournaments/2016/ac/womens-open" >Women's Open</a>
+2  Paying for only yourself
+If paying just for yourself you will still be asked to nominate your partner and include their email address.  Once you have chosen your method of payment you will receive an automatically generated email acknowledging that your registration has been successful and includes specific instructions for paying your entry fee.  Your partner will also receive an email advising them that they have been entered in the Golf Croquet Open Doubles but are also required to complete an entry on-line entry form and should list you as their partner.
 
-Please note if you wish to attend just the functions for the Championship you may use the entry form to confirm your attendance.
+In summary, if a player is paying for themselves and their partner only one entry form is required to be completed on-line.  If partners are paying individually, then each player is required to complete an on-line entry form and the two forms together will form one doubles pairing.
 
-<br />
-<br />
-<br />
-<br />
+If a player wishing to play in the Doubles and is yet to find a partner please contact Peter Freer, Chair of the Events Committee by email events@croquet-australia.com.au before making an on-line entry.
 
-## Tournament Calendar
+The presentations after the conclusion of the Doubles provides an opportunity for players to wish bon voyage and bonne chance to the Golf Croquet Team – Chris McWhirter (Captain), Wendy Dickson, Anne Quinn and Lester Hughes with John van der Touw (Team Manager and Playing Reserve) – who are representing Australia at the GC Teams World Championship.  The five leave from Tullamarine later that night.
 
-**2016**
-<br/>[Tournament Calendar](/aca-tournament-calendar-as-at-14-january-2016.pdf) as at 14 January, 2016
+The Singles Competition begins on Wednesday 11 May and finishes on Sunday 15 May and the on-line entry form is also live.
 
-**2015**
-<br/>[Tournament Calendar](/2015-2019-aca-tournament-program-as-at-4-december.pdf) as at 4 December, 2015
+If players have any concerns or difficulties with their on-line entries please contact Peter Freer, Chair of the Events Committee by email events@croquet-australia.com.au
 
-[Tournament Calendar](/2015-2019-aca-tournament-calendar-as-at-17-nov-2015.pdf) as at 17 November, 2015
-
-[Tournament Schedule](/2015-2019-aca-tournament-program-as-at-18-june-2015-2-.pdf) as at 18 June
+CLOSING DATE FOR ENTRIES IS THURSDAY 21 APRIL – Midnight WA time
