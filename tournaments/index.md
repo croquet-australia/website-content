@@ -1,6 +1,6 @@
 ---
 Title: Come and share the spirit of competition in the GC Open Doubles and Singles
-Published: 2016-04-04T17:48:05.5059047+10:00
+Published: 2016-04-04T17:49:00.4467503+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -32,13 +32,13 @@ If paying just for yourself you will still be asked to nominate your partner and
 
 In summary, if a player is paying for themselves and their partner only one entry form is required to be completed on-line.  If partners are paying individually, then each player is required to complete an on-line entry form and the two forms together will form one doubles pairing.
 
-If a player wishing to play in the Doubles and is yet to find a partner please contact Peter Freer, Chair of the Events Committee by [mailto:events@croquet-australia.com.au](email) before making an on-line entry.
+If a player wishing to play in the Doubles and is yet to find a partner please contact Peter Freer, Chair of the Events Committee by [email](mailto:events@croquet-australia.com.au) before making an on-line entry.
 
 The presentations after the conclusion of the Doubles provides an opportunity for players to wish bon voyage and bonne chance to the Golf Croquet Team – Chris McWhirter (Captain), Wendy Dickson, Anne Quinn and Lester Hughes with John van der Touw (Team Manager and Playing Reserve) – who are representing Australia at the GC Teams World Championship.  The five leave from Tullamarine later that night.
 
 The Singles Competition begins on Wednesday 11 May and finishes on Sunday 15 May and the on-line entry form is also live.
 
-If players have any concerns or difficulties with their on-line entries please contact Peter Freer, Chair of the Events Committee by (mailto:events@croquet-australia.com.au)[email].
+If players have any concerns or difficulties with their on-line entries please contact Peter Freer, Chair of the Events Committee by [email](mailto:events@croquet-australia.com.au).
 
 CLOSING DATE FOR ENTRIES IS THURSDAY 21 APRIL – Midnight WA time
 
