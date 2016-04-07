@@ -1,6 +1,6 @@
 ---
 Title: disciplines/golf croquet/resources/index
-Published: 2016-04-07T20:10:33.7731497+10:00
+Published: 2016-04-07T20:21:02.3360074+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
