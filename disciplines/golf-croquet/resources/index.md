@@ -20,7 +20,7 @@ Author:
 
 <br/>- [*The Golf Croquet Refereeing Manual* - April 2015](/gc-refereeing-manual-april-2015.pdf)
 
-<br/>- [Handicap Card – GC](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
+<br/>- [Golf Croquet - Handicap Regulations](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
 
 ###WCF Official Rulings
 **2016**
