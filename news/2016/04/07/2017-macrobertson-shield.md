@@ -1,6 +1,6 @@
 ---
 Title: 2017 MacRobertson Shield
-Published: 2016-04-07T13:36:17.6230483+10:00
+Published: 2016-04-07T13:40:33.0101996+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -8,7 +8,7 @@ Author:
 
 ---
 <div style="width:100%;">
-<div style="float:left;width:30%;padding-right:1em;padding-bottom:1em;">
+<div style="float:left;width:300px;padding-right:1em;padding-bottom:1em;">
 <img src="/macrob-shield.jpg">
 </div>
 <div style="float:none;">
