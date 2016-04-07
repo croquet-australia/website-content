@@ -1,6 +1,6 @@
 ---
 Title: 2017 MacRobertson Shield
-Published: 2016-04-07T13:30:16.8815977+10:00
+Published: 2016-04-07T13:31:23.6352663+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -9,7 +9,7 @@ Author:
 ---
 The Association Croquet Selection Committee (ACSC) met on 3 April 2016 to determine its timetable and process for selecting the Australian team for the 2017 MacRobertson Shield, which will be played at the [Mission Hills Country Club](http://www.clubcorp.com/Clubs/Mission-Hills-Country-Club/) in Rancho Mirage, California, USA from 18 April – 4 May 2017.
 
-<img src="/macrob-shield.jph">
+<img src="/macrob-shield.jpg">
 
 The ACSC has agreed it will select the Australian team for the 2017 MacRobertson Shield in May 2016. The ACSC believes selection of the team at this time will provide team members with the optimal time to plan and prepare for their participation in the event.
 
