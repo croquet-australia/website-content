@@ -1,9 +1,9 @@
 ---
 Title: disciplines/golf croquet/resources/index
-Published: 2016-02-15T16:25:02.1169287+11:00
+Published: 2016-04-07T20:09:45.4106829+10:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -20,8 +20,8 @@ Author:
 
 <br/>- [*The Golf Croquet Refereeing Manual* - April 2015](/gc-refereeing-manual-april-2015.pdf)
 
-<br/>- [Handicap Card – GC](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
-
+<br/>- [Golf Croquet - Handicap Regulations](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
+E
 ###WCF Official Rulings
 **2016**
 <br/>- [*Official Rulings* on the 2013 edition of the Rules of Golf Croquet – 2016](/2016-gc-official-rulings.pdf)
