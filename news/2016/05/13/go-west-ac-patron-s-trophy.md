@@ -1,6 +1,6 @@
 ---
 Title: "Go West!  AC Patron’s Trophy"
-Published: 2016-05-13T18:28:13.5723100+10:00
+Published: 2016-05-13T18:29:46.4008336+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
