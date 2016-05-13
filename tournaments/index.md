@@ -1,57 +1,32 @@
 ---
-Title: Come and share the spirit of competition in the GC Open Doubles and Singles
-Published: 2016-04-04T18:17:51.1014656+10:00
+Title: Tournaments index
+Published: 2016-05-13T18:57:27.9337809+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-# Come and share the spirit of competition in the GC Open Doubles and Singles
+<a href="/tournaments/2016/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Enter Patron's Trophy</a>
 
-<a href="/tournaments/2016/gc/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Doubles</a> <a href="/tournaments/2016/gc/open-singles" class="btn btn-primary btn-lg" role="button">Enter Singles</a>
+The Patron’s Trophy is unique in the Australian Croquet calendar and is being held in the picturesque town of Bunbury, a vibrant coastal town 175 kilometres south of Perth.
 
-The competitive spirit is in the air as Golf Croquet Players across Australia prepare themselves to compete in the Australian Golf Croquet Open Doubles and Singles Championships being held at the Victorian Croquet Centre – the largest croquet-specific venue in the Southern Hemisphere.
+The tournament is over the Queen’s Birthday long weekend – Saturday 11 to Monday 13 June and is bookended by Croquet West’s AC State Open Singles and Open Doubles (for more information see
+https://calendar.google.com/calendar/embed?src=wacaevents%40gmail.com&ctz=Australia/Perth).
 
-<img src="/victorian-croquet-centre-front-entrance.jpg" alt="Victorian Croquet Centre" title="Victorian Croquet Centre, Cairnlea" style="margin-bottom: 1em" />
+Players who have participated previously all comment that the three days are fiercely competitive but conducted with great sportsmanship, respect and friendship.
 
-Entries can be completed using the on-line forms.
+Members of Moorabinda Croquet Club are generous hosts with both evening meals and luncheons available for purchase.  
 
-## Doubles
+To enter visit Croquet Australia’s website, click on Tournaments and Patron’s Trophy Entry Form.  Encourage other members of your club to join you and share the experience.
 
-The Doubles commence on Saturday 7 May and concludes on Tuesday 10 May.  Players will notice several improvements to the on-line doubles entry form and several options are offered –
+If you would like more information please contact [Peter Freer](mailto:events@croquet-australia.com.au), Chair Events Committee
 
-1. Pay entry fees for both yourself and your partner – or
-2. Pay only for yourself.
+For event details [Download](/flyer-patrons-trophy.pdf).  
 
-**1. Paying for yourself and partner**
+To encourage more players to enter please print the [flyer](/flyer-patrons-trophy.pdf) and place on your club’s noticeboard.
 
-You will be asked to complete details for both yourself and your partner including respective phone contacts, email addresses and handicaps.  Once you have chosen your method of payment you will receive an automatically generated email acknowledging receipt of your registration and specific instructions for paying the entry fees.  Your partner will also receive an email confirming they too have been entered in the Golf Croquet Open Doubles.
-
-**2. Paying for only yourself**
-
-If paying just for yourself you will still be asked to nominate your partner and include their email address.  Once you have chosen your method of payment you will receive an automatically generated email acknowledging that your registration has been successful and includes specific instructions for paying your entry fee.  Your partner will also receive an email advising them that they have been entered in the Golf Croquet Open Doubles but are also required to complete an entry on-line entry form and should list you as their partner.
-
-In summary, if a player is paying for themselves and their partner only one entry form is required to be completed on-line.  If partners are paying individually, then each player is required to complete an on-line entry form and the two forms together will form one doubles pairing.
-
-If a player wishing to play in the Doubles and is yet to find a partner please contact Peter Freer, Chair of the Events Committee by [email](mailto:events@croquet-australia.com.au) before making an on-line entry.
-
-The presentations after the conclusion of the Doubles provides an opportunity for players to wish bon voyage and bonne chance to the Golf Croquet Team – Chris McWhirter (Captain), Wendy Dickson, Anne Quinn and Lester Hughes with John van der Touw (Team Manager and Playing Reserve) – who are representing Australia at the GC Teams World Championship.  The five leave from Tullamarine later that night.
-
-## Singles
-
-The Singles Competition begins on Wednesday 11 May and finishes on Sunday 15 May and the on-line entry form is also live.
-
-If players have any concerns or difficulties with their on-line entries please contact Peter Freer, Chair of the Events Committee by [email](mailto:events@croquet-australia.com.au).
-
-## The more the merrier
-
-Please encourage other Players at your club to enter!  You could suggest, if there is some trepidation to compete in a National event, for their first experience they could play in the Plate only?  [Download Doubles](/2016-gc-open-doubles.pdf) & [Download Singles](/tournaments/2016-gc-open-singles.pdf)  print and place on your noticeboard!
-
-## Closing Date
-CLOSING DATE FOR ENTRIES IS THURSDAY 21 APRIL – Midnight WA time
-
-<a href="/tournaments/2016/gc/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Doubles</a> <a href="/tournaments/2016/gc/open-singles" class="btn btn-primary btn-lg" role="button">Enter Singles</a>
+<a href="/tournaments/2016/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Enter Patron's Trophy</a>
 
 ---
 
