@@ -1,14 +1,12 @@
 ---
 Title: Tournaments index
-Published: 2016-05-13T18:57:27.9337809+10:00
+Published: 2016-05-13T18:58:34.5835685+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<a href="/tournaments/2016/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Enter Patron's Trophy</a>
-
 The Patron’s Trophy is unique in the Australian Croquet calendar and is being held in the picturesque town of Bunbury, a vibrant coastal town 175 kilometres south of Perth.
 
 The tournament is over the Queen’s Birthday long weekend – Saturday 11 to Monday 13 June and is bookended by Croquet West’s AC State Open Singles and Open Doubles (for more information see
