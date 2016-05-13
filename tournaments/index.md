@@ -1,13 +1,13 @@
 ---
-Title: Tournaments index
-Published: 2016-05-13T19:01:06.5422686+10:00
+Title: "Go West! AC Patron’s Trophy"
+Published: 2016-05-13T19:01:39.6773765+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-## Go West! AC Patron’s Trophy
+# Go West! AC Patron’s Trophy
 
 The Patron’s Trophy is unique in the Australian Croquet calendar and is being held in the picturesque town of Bunbury, a vibrant coastal town 175 kilometres south of Perth.
 
