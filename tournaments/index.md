@@ -1,6 +1,6 @@
 ---
 Title: "Go West! AC Patron’s Trophy"
-Published: 2016-05-13T19:01:39.6773765+10:00
+Published: 2016-05-13T19:08:26.9456237+10:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
