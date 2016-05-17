@@ -1,6 +1,6 @@
 ---
-Title: Day Four - Monday 16 May
-Published: 2016-05-17T10:28:06.5171820+10:00
+Title: Day Two - Monday 16 May
+Published: 2016-05-17T10:29:11.0025523+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
