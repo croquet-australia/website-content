@@ -1,9 +1,9 @@
 ---
 Title: disciplines/golf croquet/resources/index
-Published: 2016-04-07T20:21:02.3360074+10:00
+Published: 2016-05-17T16:19:28.5093481+10:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -21,6 +21,8 @@ Author:
 <br/>- [*The Golf Croquet Refereeing Manual* - April 2015](/gc-refereeing-manual-april-2015.pdf)
 
 <br/>- [Golf Croquet - Handicap Regulations](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
+
+<br/>-[Golf Croquet World Rankings](http://rank.wcfcroquet.org/gcrank/rank.php)
 
 ###WCF Official Rulings
 **2016**
