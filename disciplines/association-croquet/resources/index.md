@@ -1,6 +1,6 @@
 ---
 Title: disciplines/association croquet/resources/index
-Published: 2016-05-17T16:17:56.6634748+10:00
+Published: 2016-05-17T17:15:35.8177753+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -18,4 +18,4 @@ Author:
 
 <br/>- [Handicap Card – AC](/ac-handicap-card.PDF)
 
-<br/>-[Association Croquet World Rankings](http://butedock.demon.co.uk/cgs/rank.php)
+<br/>- [Association Croquet World Rankings](http://butedock.demon.co.uk/cgs/rank.php)
