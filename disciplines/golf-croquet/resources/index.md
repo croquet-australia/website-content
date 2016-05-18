@@ -1,6 +1,6 @@
 ---
 Title: disciplines/golf croquet/resources/index
-Published: 2016-05-17T17:16:17.5091738+10:00
+Published: 2016-05-18T16:08:18.1305923+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -22,7 +22,7 @@ Author:
 
 <br/>- [Golf Croquet - Handicap Regulations](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
 
-<br/>- [Golf Croquet World Rankings](http://rank.wcfcroquet.org/gcrank/rank.php)
+<br/>- [Golf Croquet World Rankings](http://rank.worldcroquet.org/gcrank/rank.php)
 
 ###WCF Official Rulings
 **2016**
