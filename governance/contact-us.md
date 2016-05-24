@@ -1,9 +1,9 @@
 ---
 Title: governance/contact us
-Published: 2016-03-29T11:58:19.8239657+11:00
+Published: 2016-05-24T13:11:53.4117010+10:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -34,22 +34,24 @@ Author:
 <br/>10 Solomon Street, MOSMAN PARK WA 6012
 <br/>Ph: 08.9384 8053; Mob: 0403 981 866
 
-<br/> [Don Close](mailto:don.close@croquet-australia.com.au), Treasurer Designate
+<br/> [Don Close](mailto:don.close@croquet-australia.com.au), Treasurer 
 <br/>156 Kent Street, ROCKHAMPTON QLD 4700
 <br/>Ph: 07.4922 4111; Mob: 0418 791 486
 
 <br/>[Mike Cohn](mailto:mike.cohn@croquet-australia.com.au)
-<br/>Mob:0412 294 150
+<br/>212 Burke Road, GLEN IRIS VIC 3146
+<br/>Ph: 03.9885 6304; Mob:0412 294 150
 
 <br/>[Jim Saunders](mailto:jim.saunders@croquet-australia.com.au)
 <br/>8 Terrigal Court, LEOPOLD VIC 3224
 <br/>Ph: 03.5250 5250; Mob: 0417 541 311
 
+<br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
+<br/>PO BOX 59, SPRING HILL QLD 4004
+<br/>Mob:0405 005 019
+
 <br/>[Graeme Thomas](mailto:graeme.thomas@croquet-australia.com)
 <br/>Mob:0408 843 526
-
-<br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
-<br/>Mob:0405 005 019
 
 <br/>[Tricia Vierra](mailto:tricia.vierra@croquet-australia.com.au)
 <br/>16 Goodwin Street, TEWANTIN QLD 4565
@@ -84,7 +86,7 @@ Author:
 <br/>Ph: 02.4933 5846 
 <br/>Anne Quinn (Sec.)
 <br/>Lester Hughes
-<br/>Captain – Peter Landrebe 
+<br/>Captain – Chris McWhirter
 <br/>HPM GC
 <a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
@@ -95,32 +97,30 @@ Author:
 <br/>**High Performance Manager – Golf Croquet**
 <br/>[Vacant](mailto:gchpm@croquet-australia.com.au)
 
-<br/>**National Director Gateball**
+<br/>**National Co-ordinator Gateball**
 <br/>[John Park](mailto:info@gateball.com.au)
 <br/>Mob: 0448 227 467 
 
-<br/>**National Refereeing Director Association Croquet**
-<br/>[Vacant](mailto:ndrac@croquet-australia.com.au)
+<br/>**National Refereeing Co-ordinator Association Croquet**
+<br/>[Mike Cohn](mailto:ndrac@croquet-australia.com.au)
 
-<br/>**National Refereeing Director Golf Croquet**
+<br/>**National Refereeing Co-ordinator Golf Croquet**
 <br/>[Vacant](mailto:ndrgc@croquet-australia.com.au)
 
 
-<br/>**National Coaching Director Association Croquet**
+<br/>**National Coaching Co-ordinator Association Croquet**
 <br/>[Greg Whymark](mailto:ncdac@croquet-australia.com.au)
 <br/>Mob: 0418 158 701
 
-<br/>**National Coaching Director Golf Croquet**
-<br/> [Barb Piggott](mailto:ncdgc@croquet-australia.com.au)
-<br/>Mob: 0427 629 953
+<br/>**National Coaching Co-ordinator Golf Croquet**
+<br/> [Vacant](mailto:ncdgc@croquet-australia.com.au)
 
-<br/>**National Director Under 21 Croquet**
+<br/>**National Co-ordinator Under 21 Croquet**
 <br/>[Jacky McDonald](mailto:ndu21c@croquet-australia.com.au)
 <br/>Ph: 02.4932 1792; Mob: 0409 246 294 
 
 <br/>**Complaints Officer**
-<br/>[Bethwyn Johnson](mailto:complaints@croquet-australia.com.au)
-<br/>Mob: 0419 049 593
+<br/>[Vacant](mailto:complaints@croquet-australia.com.au)
 
 <br/>**National Handicapper**
 <br/>[Rob McAdam](mailto:national.handicapper@croquet-australia.com.au)
@@ -132,7 +132,7 @@ Author:
 
 <br/>**Editor and Subscription Manager**
 <br/>[Carolyn Ribone](mailto:magazine@croquet-australia.com.au)
-<br/>PO BOX 5918, Brendale BC, BRENDALE QLD. 4500
+<br/>7 Wisteria Court, CASHMERE QLD 4500
 <br/>Ph: 07.3298 5576
 
 <br/>**Representative International Laws Committee**
