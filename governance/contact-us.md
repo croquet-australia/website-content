@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-05-24T13:11:53.4117010+10:00
+Published: 2016-05-24T13:15:41.0142302+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -29,7 +29,6 @@ Author:
 <br/>9 The Avenue, LORN NSW 2320
 <br/>Ph: 02.4934 1135; Mob: 0412 380 313
 
-###**Directors**
 <br/>[Megan Fardon](mailto:megan.fardon@croquet-australia.com.au), Deputy Chair
 <br/>10 Solomon Street, MOSMAN PARK WA 6012
 <br/>Ph: 08.9384 8053; Mob: 0403 981 866
