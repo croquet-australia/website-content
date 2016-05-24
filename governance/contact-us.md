@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-05-24T13:15:41.0142302+10:00
+Published: 2016-05-24T13:16:55.5712754+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -24,8 +24,8 @@ Author:
 <br/>Mob: 0457 678 380
 
 ##**DIRECTORS** 
-###**Chair**
-<br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au)
+
+<br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au), Chair
 <br/>9 The Avenue, LORN NSW 2320
 <br/>Ph: 02.4934 1135; Mob: 0412 380 313
 
