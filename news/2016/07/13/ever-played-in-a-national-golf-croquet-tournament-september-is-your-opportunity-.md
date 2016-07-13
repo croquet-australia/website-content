@@ -1,6 +1,6 @@
 ---
-Title: Ever played in a National Golf Croquet Tournament?  <br/>September is your opportunity!
-Published: 2016-07-13T17:29:30.5910115+10:00
+Title: Ever played in a National Golf Croquet Tournament?  September is your opportunity!
+Published: 2016-07-13T17:30:29.2041299+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
