@@ -1,6 +1,6 @@
 ---
 Title: "Go West – Go Play!"
-Published: 2016-07-13T17:20:41.9943593+10:00
+Published: 2016-07-13T17:23:00.2591456+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -26,7 +26,7 @@ Download a copy of the flyer and paste on your club’s noticeboard and encourag
 To enter
 
 <a href="/tournaments/2016/gc/mens-open" class="btn btn-primary btn-lg" role="button">Enter Men's Open</a>
-<a href="/tournaments/2016/gc/wommens-open" class="btn btn-primary btn-lg" role="button">Enter Women's Open</a>
+<a href="/tournaments/2016/gc/womens-open" class="btn btn-primary btn-lg" role="button">Enter Women's Open</a>
 
 **Note entries close on Friday 5 August (midnight WA time)**
 
