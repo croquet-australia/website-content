@@ -1,12 +1,30 @@
 ---
-Title: "Go West – Go Play!"
-Published: 2016-07-13T17:23:00.2591456+10:00
+Title: Strive to become Australia's next under 21 Champion!
+Published: 2016-08-06T18:12:57.1368882+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+#Strive to become Australia's next under 21 Champion!
+
+The second Australian Under 21 Golf Croquet Championship is a unique opportunity to hone skills against players of similar age and experience particularly as this event is being held at the Victorian Croquet Centre, Cairnlea, Victoria which is also the venue for the World Croquet Federation’s Under 21 GC World Championship in February 2017.
+
+The winner will be awarded the Australian Under 21 Golf Croquet Perpetual Trophy, gold medal and a PFC Hoop Maker Mallet made to their specifications and kindly donated by Peter Cole.  Runner Up receives the silver medal.
+
+To find out more details including the event format click [information](/september-flyer-v2.pdf).
+Entry Fee is AUD $35.00  
+
+To enter
+
+<a href="/tournaments/2016/gc/u21" class="btn btn-primary btn-lg" role="button">Enter Under 21</a>
+
+Closing Date is **Thursday 1 September, 2016** (12 midnight WA time)
+
+
+
+
 #Go West – Go Play!
 
 Each year the Australian Golf Croquet Men’s and Women’s Singles Championships are hosted by a different State, and Croquet West has the honour in 2016.
