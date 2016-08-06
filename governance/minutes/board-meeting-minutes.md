@@ -1,6 +1,6 @@
 ---
 Title: governance/minutes/board meeting minutes
-Published: 2016-08-06T19:37:06.9243456+10:00
+Published: 2016-08-06T19:38:06.0309533+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
