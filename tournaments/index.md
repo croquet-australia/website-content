@@ -1,6 +1,6 @@
 ---
 Title: Become Australia's next under 21 Champion!
-Published: 2016-08-06T18:21:41.0665573+10:00
+Published: 2016-08-06T18:24:31.0718410+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -28,7 +28,7 @@ Closing Date is **Thursday 1 September, 2016** (12 midnight WA time)
 #Go West – Go Play!
 Entries to the GC Men's and Women's Singles Championships have now closed.
 
-You may still register for the Dinner being held on Sunday 11 September.
+You may still register for the Dinner being held on Sunday 11 September by clicking one of the following buttons,
 
 To enter
 
