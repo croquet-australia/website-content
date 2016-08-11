@@ -1,9 +1,9 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2016-02-14T12:22:58.0385001+11:00
+Published: 2016-08-11T12:44:04.0193304+10:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -13,10 +13,6 @@ Author:
 <br/>[ACA Constitution September 2015](/aca-constitution-as-at-september-2015.pdf)
 
 [ACA Constitution April 2015](/aca-constitution-9-april-2015.pdf)
-
-###Strategic Plan
-
-[ACA Strategic Plan](/aca-strategic-plan-as-20-november.pdf)
 
 ###Regulations
 
