@@ -1,12 +1,12 @@
 ---
 Title: Positions Vacant
-Published: 2016-08-11T12:40:03.4121176+10:00
+Published: 2016-08-30T18:12:51.7635742+10:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
 # Positions Vacant
 
-todo
+[National Co-ordinator Refereeing Golf Croquet](/pd-national-co-ordinator-refereeing-golf-croquet.pdf).
