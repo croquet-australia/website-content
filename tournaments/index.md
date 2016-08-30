@@ -1,12 +1,32 @@
 ---
-Title: Become Australia's next under 21 Champion!
-Published: 2016-08-06T18:24:31.0718410+10:00
+Title: Do you want to play in the Under 21 Golf Croquet World Championships
+Published: 2016-08-30T17:42:18.5056426+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+#Do you want to play in the Under 21 Golf Croquet World Championships
+
+Australia is hosting the Under 21 Golf Croquet World Championships in February 2017 at the Victorian Croquet Centre, Cairnlea.
+
+To be considered you need to register your expression of interest.  Names will be submitted to the GC Selection Committee and then on forwarded to the Secretary General of the World Croquet Federation.
+
+The previous Under 21 World Championship was held in New Zealand at the beginning of 2015 and Australia was represented by Jack Williams and Edward Wilson.  Edward wrote on his return to Adelaide 
+
+*“The experience I have gained from playing at an international level has been invaluable to my croquet career and has provided me with life long wonderful memories.”*
+
+Don’t miss this opportunity and register now
+
+<a href="/tournaments/2017/gc/u21-worlds-eoi" class="btn btn-primary btn-lg" role="button">Enter EOI</a>
+
+**Complete the form no later than Wednesday 14 September midnight WA time**
+
+For queries contact [Jacky McDonald](mail to:ndu21c@croquet-australia.com.au) National Co-ordinator U21 at 
+
+
+
 #Become Australia's next under 21 Champion!
 
 The second Australian Under 21 Golf Croquet Championship is a unique opportunity to hone skills against players of similar age and experience particularly as this event is being held at the Victorian Croquet Centre, Cairnlea, Victoria which is also the venue for the World Croquet Federation’s Under 21 GC World Championship in February 2017.
@@ -23,17 +43,6 @@ To enter
 Closing Date is **Thursday 1 September, 2016** (12 midnight WA time)
 
 
-
-
-#Go West – Go Play!
-Entries to the GC Men's and Women's Singles Championships have now closed.
-
-You may still register for the Dinner being held on Sunday 11 September by clicking one of the following buttons,
-
-To enter
-
-<a href="/tournaments/2016/gc/mens-open" class="btn btn-primary btn-lg" role="button">Enter Men's Open</a>
-<a href="/tournaments/2016/gc/womens-open" class="btn btn-primary btn-lg" role="button">Enter Women's Open</a>
 
 
 
