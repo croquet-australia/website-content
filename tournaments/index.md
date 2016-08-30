@@ -1,6 +1,6 @@
 ---
 Title: Do you want to play in the Under 21 Golf Croquet World Championships
-Published: 2016-08-30T17:42:18.5056426+10:00
+Published: 2016-08-30T17:44:57.0745039+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -23,7 +23,7 @@ Don’t miss this opportunity and register now
 
 **Complete the form no later than Wednesday 14 September midnight WA time**
 
-For queries contact [Jacky McDonald](mail to:ndu21c@croquet-australia.com.au) National Co-ordinator U21 at 
+For queries contact [Jacky McDonald](mailto:ndu21c@croquet-australia.com.au) National Co-ordinator U21
 
 
 
