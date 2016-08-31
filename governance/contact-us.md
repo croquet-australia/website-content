@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-05-24T13:16:55.5712754+10:00
+Published: 2016-08-31T10:21:21.1675046+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -53,8 +53,7 @@ Author:
 <br/>Mob:0408 843 526
 
 <br/>[Tricia Vierra](mailto:tricia.vierra@croquet-australia.com.au)
-<br/>16 Goodwin Street, TEWANTIN QLD 4565
-<br/>Ph: 07.5455 6925; Mob: 0478 296 678
+ Mob: 0478 296 678
 
 
 
