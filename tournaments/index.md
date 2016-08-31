@@ -1,6 +1,6 @@
 ---
 Title: Do you want to play in the Under 21 Golf Croquet World Championships
-Published: 2016-08-30T17:44:57.0745039+10:00
+Published: 2016-08-31T11:15:19.9060934+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -59,6 +59,8 @@ Closing Date is **Thursday 1 September, 2016** (12 midnight WA time)
 ## Tournament Calendar
 
 ### 2016
+
+- [Tournament Calendar](/tournaments/aca-tournament-calendar-as-at-31-august-2016.pdf) as at 31 August, 2016
 
 - [Tournament Calendar](/aca-tournament-calendar-as-at-14-january-2016.pdf) as at 14 January, 2016
 
