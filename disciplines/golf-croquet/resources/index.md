@@ -1,6 +1,6 @@
 ---
 Title: '**The New Golf Croquet Handicapping System - effective 3 April, 2017**'
-Published: 2016-08-31T16:23:11.9074885+10:00
+Published: 2016-08-31T16:34:14.5063934+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -66,7 +66,6 @@ a complete new beginner should be started on 16,14,12 or lower- the three times 
 <br/>if your existing handicap is 2 or below and you DO have a current GC World Ranking Grade, take that grade and use that for your new handicap index.  Look up the trigger point table and take the handicap of the trigger point which is at or below your current grade.  See also the Note below.
 <br/>**Rule G:**
 <br/>if your existing handicap is 2 or below and you DO NOT have a current GC World Ranking Grade. Club Handicappers (with the assistance of State Handicapper if necessary) will need to assess an appropriate handicap and index having regard to the handicap of others who are on similar handicaps and indexes under the old system.  See also the Note which follows.
-
 <br/>**Note: for Rules F & G:** no player’s handicap should increase above their old Handicap under this conversion.  For example, if someone had a 1 handicap and a Ranking Grade of 1798, they should NOT be changed to 3 with an index of 1798.  Instead they should be remain as a 1 with an index of 1900.
 
 ##What Happens Now
@@ -81,7 +80,7 @@ The ACA GC Handicapping Regulations will also be updated and will be available o
 
 A revised version of Law 16 of the Rules of Golf Croquet will apply in Australia.  It is available on the ACA website.
 
-The UK Trial
+##The UK Trial
 
 Analysis of the trial conducted in the East Anglia Region showed that the system worked well for the great bulk of players- those whose handicaps are between 4 & 10.
 
@@ -99,12 +98,17 @@ The New System largely removes the advantage the top players have, it works well
 
 The detailed evidence collected, the mathematical analysis & a fuller version of the conclusions can be viewed by clicking [here](https://www.dropbox.com/sh/saayh8pfe04hatk/AABHtzQaEvDRFE3qHHyF2IJOa?dl=0)
 
+You may download a copy of the above by clicking [here](/disciplines/golf-croquet/resources/the-new-golf-croquet-handicapping-system.pdf)
 
+##New Resource Material for the introduction of the New Golf Handicapping System.
+<br/>- [GC Handicapping Regulations - effective 3 April, 2017(/disciplines/golf-croquet/resources/gc-handicap-regulations-3-april-2017.pdf)
 
+<br/>- [GC Rule 16 Australian Version - effective 3 April, 2017](/disciplines/golf-croquet/resources/gc-rule16-australian-version-effective-3-april-2017.pdf)
 
+Note - new Handicap cards will be printed by the ACA and distributed to State Associations by the end of November
 
 ##Resources
-<br/>- [*The Rules of Golf Croquet* November 2013, Adopted ACA 1 January, 2014](/the-rules-of-golf-croquet-aca-final-6-2-effective-1-january-2014docx.pdf).
+<br/>- [*The Rules of Golf Croquet* November 2013, Adopted ACA 1 January, 2014](/the-rules-of-golf-croquet-aca-final-6-2-effective-1-january-2014docx.pdf)
 
 <br/>- [*Golf Croquet - Referee Activity Record Log*](/gc-referee-activity-log-november-2013.pdf)
 
