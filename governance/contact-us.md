@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-08-31T10:21:21.1675046+10:00
+Published: 2016-08-31T10:21:55.6368886+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -53,7 +53,7 @@ Author:
 <br/>Mob:0408 843 526
 
 <br/>[Tricia Vierra](mailto:tricia.vierra@croquet-australia.com.au)
- Mob: 0478 296 678
+<br/> Mob: 0478 296 678
 
 
 
