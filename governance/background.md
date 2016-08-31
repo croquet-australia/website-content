@@ -1,6 +1,6 @@
 ---
 Title: Governance background
-Published: 2015-06-09T12:25:05.3685919+10:00
+Published: 2016-08-31T10:24:37.9284959+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -22,7 +22,7 @@ The Australian Croquet Association (ACA) has been incorporated in the ACT since 
 
 To assist with the transition the new Constitution outlined the makeup of the Board for its first year – three of the First Directors were to come from the Executive (President, Senior Vice President and Vice-President) and the remaining six to be selected by their State Association.  
 
-Members of the Board are 
+Members of the first Board  - 
 
 <br/>Robyn Wallace, NSW - Chair
 <br/>Jim Clement, VIC
