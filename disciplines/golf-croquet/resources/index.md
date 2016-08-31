@@ -1,6 +1,6 @@
 ---
 Title: '**The New Golf Croquet Handicapping System - effective 3 April, 2017**'
-Published: 2016-08-31T16:34:14.5063934+10:00
+Published: 2016-08-31T16:36:12.7220923+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -98,10 +98,11 @@ The New System largely removes the advantage the top players have, it works well
 
 The detailed evidence collected, the mathematical analysis & a fuller version of the conclusions can be viewed by clicking [here](https://www.dropbox.com/sh/saayh8pfe04hatk/AABHtzQaEvDRFE3qHHyF2IJOa?dl=0)
 
+
 You may download a copy of the above by clicking [here](/disciplines/golf-croquet/resources/the-new-golf-croquet-handicapping-system.pdf)
 
-##New Resource Material for the introduction of the New Golf Handicapping System.
-<br/>- [GC Handicapping Regulations - effective 3 April, 2017(/disciplines/golf-croquet/resources/gc-handicap-regulations-3-april-2017.pdf)
+###New Resource Material for the introduction of the New Golf Handicapping System.
+<br/>- [GC Handicapping Regulations - effective 3 April, 2017](/disciplines/golf-croquet/resources/gc-handicap-regulations-3-april-2017.pdf)
 
 <br/>- [GC Rule 16 Australian Version - effective 3 April, 2017](/disciplines/golf-croquet/resources/gc-rule16-australian-version-effective-3-april-2017.pdf)
 
