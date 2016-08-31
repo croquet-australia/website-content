@@ -1,6 +1,6 @@
 ---
 Title: governance/minutes/board meeting minutes
-Published: 2016-08-31T10:19:08.0247967+10:00
+Published: 2016-08-31T10:20:10.0020316+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -33,8 +33,8 @@ The Board of Croquet Australia was constituted on 9 April, 2015 and held its fir
 
 [Wednesday 1 July](/governance/minutes/4-wednesday-1-july-2015-minutes.pdf)
 
-[Wednesday 20 May](/governance/minutes/3-wednesday-20-may-2015-minutes.pdf)
-
 [Tuesday 2 June](/governance/minutes/2-tuesday-2-june-2015-minutes.pdf)
+
+[Wednesday 20 May](/governance/minutes/3-wednesday-20-may-2015-minutes.pdf)
 
 [Wednesday 6 May](/governance/minutes/1-wednesday-6-may-2015-minutes.pdf)
