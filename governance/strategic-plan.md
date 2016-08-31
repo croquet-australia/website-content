@@ -1,12 +1,12 @@
 ---
 Title: Strategic Plan
-Published: 2016-08-11T12:42:33.0549010+10:00
+Published: 2016-08-31T10:28:09.9057337+10:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
 # Strategic Plan
 
-[ACA Strategic Plan](/aca-strategic-plan-as-20-november.pdf)
+[ACA Strategic Plan](/governance/aca-strategic-plan-typo-corrections-as-at-20-november-from-marketing.pdf)
