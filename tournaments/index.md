@@ -1,6 +1,6 @@
 ---
 Title: Enjoy two competitive golf croquet events in the relaxed surrounds of the Deniliquin Croquet Club
-Published: 2016-09-08T10:12:33.6516080+10:00
+Published: 2016-09-08T10:13:31.8623179+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,7 +9,7 @@ Author:
 ---
 #Enjoy two competitive golf croquet events in the relaxed surrounds of the Deniliquin Croquet Club  
 
-Deniliquin is once again hosting the National Golf Croquet Handicap Doubles and Singles Tournaments from Monday 24 October to Friday 28 October.
+Deniliquin is once again hosting the National Golf Croquet Handicap Doubles and Singles tournaments from Monday 24 October to Friday 28 October.
 
 To attract more participants, entry fees have been significantly reduced and prize money has kindly been donated by the Deniliquin RSL Club – players in the Doubles will save $15 each and the cost to compete in the Singles is only $50 – a further saving of $30!
 
