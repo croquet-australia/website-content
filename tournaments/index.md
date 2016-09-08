@@ -1,12 +1,28 @@
 ---
-Title: Do you want to play in the Under 21 Golf Croquet World Championships
-Published: 2016-08-31T11:23:15.4626380+10:00
+Title: Enjoy two competitive golf croquet events in the relaxed surrounds of the Deniliquin Croquet Club
+Published: 2016-09-08T10:12:33.6516080+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+#Enjoy two competitive golf croquet events in the relaxed surrounds of the Deniliquin Croquet Club  
+
+Deniliquin is once again hosting the National Golf Croquet Handicap Doubles and Singles Tournaments from Monday 24 October to Friday 28 October.
+
+To attract more participants, entry fees have been significantly reduced and prize money has kindly been donated by the Deniliquin RSL Club – players in the Doubles will save $15 each and the cost to compete in the Singles is only $50 – a further saving of $30!
+
+Talk to your friends and other members of your Club; get a group together and encourage them to enter one of Australia’s most enjoyable national competitions.
+
+To enter
+
+<a href="/tournaments/2016/gc/handicap-doubles" class="btn btn-primary btn-lg" role="button">Enter Doubles</a> <a href="/tournaments/2016/gc/handicap-singles" class="btn btn-primary btn-lg" role="button">Enter Singles</a>
+
+Entries close on Friday 30 September (midnight WA time).
+
+________________
+
 #Do you want to play in the Under 21 Golf Croquet World Championships
 
 Australia is hosting the Under 21 Golf Croquet World Championships in February 2017 at the Victorian Croquet Centre, Cairnlea.
@@ -27,21 +43,6 @@ For queries contact [Jacky McDonald](mailto:ndu21c@croquet-australia.com.au) Nat
 
 
 
-#Become Australia's next under 21 Champion!
-
-The second Australian Under 21 Golf Croquet Championship is a unique opportunity to hone skills against players of similar age and experience particularly as this event is being held at the Victorian Croquet Centre, Cairnlea, Victoria which is also the venue for the World Croquet Federation’s Under 21 GC World Championship in February 2017.
-
-The winner will be awarded the Australian Under 21 Golf Croquet Perpetual Trophy, gold medal and a PFC Hoop Maker Mallet made to their specifications and kindly donated by Peter Cole.  Runner Up receives the silver medal.
-
-To find out more details including the event format click [information](/september-flyer-v2.pdf).
-Entry Fee is AUD $35.00  
-
-To enter
-
-<a href="/tournaments/2016/gc/u21" class="btn btn-primary btn-lg" role="button">Enter Under 21</a>
-
-Closing Date is **Thursday 1 September, 2016** (12 midnight WA time)
-
 
 
 
@@ -51,10 +52,6 @@ Closing Date is **Thursday 1 September, 2016** (12 midnight WA time)
 
 
 ---
-
-
-
-
 
 ## Tournament Calendar
 
