@@ -1,6 +1,6 @@
 ---
 Title: Enjoy two competitive golf croquet events in the relaxed surrounds of the Deniliquin Croquet Club
-Published: 2016-09-27T11:44:48.3817162+10:00
+Published: 2016-09-27T11:46:09.9626390+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -27,7 +27,7 @@ ________________
 
 Click [here](/2016-presidents-ac-eights-blocks.pdf) to see names of players in the First Eight, Second Eight, Third Eight and Women’s Eight.
 
-The tournament is being held at the Victorian Croquet Centre from Friday 7 to Monday 10 October with registration and practice from 1400 hours on Thursday 6 October.  The Random draw will be completed by 1800 hours on Thursday 6 October
+The tournament is being held at the Victorian Croquet Centre from Friday 7 to Monday 10 October with registration and practice from 1400 hours on Thursday 6 October.  The Random draw will be completed by 1800 hours on Thursday 6 October.
 
 ---
 
