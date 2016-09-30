@@ -1,6 +1,6 @@
 ---
 Title: '**The New Golf Croquet Handicapping System - effective 3 April, 2017**'
-Published: 2016-09-30T17:34:13.2324906+10:00
+Published: 2016-09-30T17:34:39.2748734+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -103,7 +103,7 @@ You may download a copy of the above by clicking [here](/disciplines/golf-croque
 
 ###New Resource Material to comply with the New Golf Handicapping System.
 <br/>- [GC Handicapping Regulations - effective 3 April, 2017](/disciplines/golf-croquet/resources/gc-handicap-regulations-3-april-2017.pdf)
-<br/>- [GC Rule 16 Australian Version - effective 3 April, 2017]('/disciplines/golf-croquet/resources/gc-rule16-australian-version.pdf)
+<br/>- [GC Rule 16 Australian Version - effective 3 April, 2017](/disciplines/golf-croquet/resources/gc-rule16-australian-version.pdf)
 Note - new Handicap cards will be printed by the ACA and distributed to State Associations by the end of November
 
 ##Resources
