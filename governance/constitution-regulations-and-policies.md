@@ -1,9 +1,9 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2016-08-11T12:44:04.0193304+10:00
+Published: 2016-10-18T12:58:50.7361340+11:00
 Author:
-  Name: Tim Murphy
-  Email: tim@26tp.com
+  Name: Susan Linge
+  Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -25,6 +25,9 @@ Author:
 [Australian Tournament Regulations updated April 2015](/tregs-amended-8-april-2015.pdf)
 
 ###Policies
+
+**2016**
+<br/>[Member Protection Policy – Version 8](/governance/aca-mpp-june-2016-.pdf)
 
 **2015**
 <br/>[Anti-Doping Policy - ASADA January 2015](/croquet-final-anti-doping-policy-copy.pdf)
