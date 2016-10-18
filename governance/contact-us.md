@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-08-31T10:21:55.6368886+10:00
+Published: 2016-10-18T13:21:21.1435976+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -80,8 +80,8 @@ Author:
 <br/>Captain - Ian Dumergue 
 <br/>HPM AC - Peter Landrebe
 ###**GC Selection Committee**
-<br/>[John Compton (Chair)](mailto:gcselectors@croquet-australia.com.au)
-<br/>Ph: 02.4933 5846 
+<br/>[Terry Ericson(Chair)](mailto:gcselectors@croquet-australia.com.au)
+<br/>Mob: 0403 424 312
 <br/>Anne Quinn (Sec.)
 <br/>Lester Hughes
 <br/>Captain – Chris McWhirter
@@ -103,8 +103,7 @@ Author:
 <br/>[Mike Cohn](mailto:ndrac@croquet-australia.com.au)
 
 <br/>**National Refereeing Co-ordinator Golf Croquet**
-<br/>[Vacant](mailto:ndrgc@croquet-australia.com.au)
-
+<br/>[Jim Clement](mailto:ACA_ncrgc@croquet-australia.com.au)
 
 <br/>**National Coaching Co-ordinator Association Croquet**
 <br/>[Greg Whymark](mailto:ncdac@croquet-australia.com.au)
