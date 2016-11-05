@@ -1,9 +1,9 @@
 ---
 Title: Entries to the AC Open Doubles and Singles are now open!
-Published: 2016-10-18T11:35:03.7390098+11:00
+Published: 2016-11-05T12:53:40.6542120+11:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
@@ -15,4 +15,4 @@ You can enter on-line on the ACA website by clicking on
 
 Closing date is **Thursday 3 November** (midnight Western Australian time).
 
-If you have any queries please do not hesitate to contact [Peter Freer, Chair Events Committee](events@croquet-australia.com.au).
+If you have any queries please do not hesitate to contact [Peter Freer, Chair Events Committee](mailto:events@croquet-australia.com.au).
