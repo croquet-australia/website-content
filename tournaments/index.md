@@ -1,12 +1,21 @@
 ---
 Title: Tournaments index
-Published: 2016-10-18T12:28:20.6467690+11:00
+Published: 2016-12-24T13:30:00.6917743+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+##Entries to the AC Men’s Singles and Women’s Singles are now open - 
+
+To play in the AC Men’s Singles <a href="/tournaments/2017/ac/mens-open" class="btn btn-primary btn-lg" role="button">Enter Men's</a> 
+
+To play in the AC Women’s Singles <a href="/tournaments/2017/ac/womens-open" class="btn btn-primary btn-lg" role="button">Enter Women's</a>
+
+To attend the Eire Cup Dinner being held on Sunday 26 March click on either button, complete your contact details and specify the number of people you will be paying for to attend. 
+
+Entries close Thursday 16 February, 2017 (Midnight WA time).
 ________________
 
 
