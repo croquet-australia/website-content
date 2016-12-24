@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2016-12-24T13:31:33.7189093+11:00
+Published: 2016-12-24T13:33:14.9701446+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,9 +9,11 @@ Author:
 ---
 ##Entries to the AC Men’s Singles and Women’s Singles are now open - 
 
-To play in the AC Men’s Singles <a href="/tournaments/2017/ac/mens-open" class="btn btn-primary btn-lg" role="button">Men's</a> 
+To play in the AC Men’s Singles 
+<br/><a href="/tournaments/2017/ac/mens-open" class="btn btn-primary btn-lg" role="button">Men's</a> 
 
-To play in the AC Women’s Singles <a href="/tournaments/2017/ac/womens-open" class="btn btn-primary btn-lg" role="button">Enter Women's</a>
+To play in the AC Women’s Singles 
+<br/><a href="/tournaments/2017/ac/womens-open" class="btn btn-primary btn-lg" role="button">Women's</a>
 
 To attend the Eire Cup Dinner being held on Sunday 26 March click on either button, complete your contact details and specify the number of people you will be paying for to attend. 
 
