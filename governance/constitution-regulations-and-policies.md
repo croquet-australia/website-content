@@ -1,6 +1,6 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2017-01-26T13:19:27.1980161+11:00
+Published: 2017-01-26T13:21:07.9966371+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
