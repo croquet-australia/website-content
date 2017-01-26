@@ -1,6 +1,6 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2017-01-26T13:17:41.5677551+11:00
+Published: 2017-01-26T13:19:27.1980161+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -27,7 +27,7 @@ Author:
 ###Policies
 
 **2017**
-<br/>[ACA Election Policy](/governance/election-policy-1.pdf)
+<br/>[ACA Election Policy - December 2016](/governance/election-policy-1.pdf)
 
 **2016**
 <br/>[Member Protection Policy – Version 8](/governance/aca-mpp-june-2016-.pdf)
