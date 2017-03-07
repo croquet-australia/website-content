@@ -1,6 +1,6 @@
 ---
 Title: Calling all Gateball Players
-Published: 2017-03-08T05:16:00.5070009+11:00
+Published: 2017-03-08T05:17:55.7465080+11:00
 Author:
   Name: Tim Murphy
   Email: tim@26tp.com
@@ -9,7 +9,7 @@ Author:
 ---
 The 2017 Australian Gateball Championships are being held in New South Wales at EDSACC, the four-court venue located at Bateau Bay and will attract teams from across Australia as well as overseas.
 
-<img src=”/australian-championships-2017-logo.png" alt="2017 logo" title="2017 logo"/>
+<img src="/australian-championships-2017-logo.png" alt="2017 logo" title="2017 logo"/>
  
 The event is being held from Friday 13 to Sunday 15 October.  Teams from Australia can enter on-line via the Croquet Australia website just click [here](https://croquet-australia.com.au/tournaments/2017/gb/championships)
 
