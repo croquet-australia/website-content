@@ -1,6 +1,6 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2017-01-26T13:21:07.9966371+11:00
+Published: 2017-03-07T18:50:09.5454327+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -28,6 +28,7 @@ Author:
 
 **2017**
 <br/>[ACA Election Policy - December 2016](/governance/election-policy-1.pdf)
+<br/>[Gateball Selection Policy; Australian Squad at World and Asian Gateball Championships - December 2016(/governance/gateball-selection-policy-december-2016.pdf)
 
 **2016**
 <br/>[Member Protection Policy – Version 8](/governance/aca-mpp-june-2016-.pdf)
