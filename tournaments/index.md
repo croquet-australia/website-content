@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2016-12-24T13:45:08.2665272+11:00
+Published: 2017-03-07T19:23:17.1088282+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -19,6 +19,15 @@ To attend the Eire Cup Dinner being held on Sunday 26 March click on either butt
 
 Entries close Thursday 16 February, 2017 (Midnight WA time).
 ________________
+
+##Enter you team to compete in the Australian Gateball Championship
+<br/><a href="/tournaments/2017/gb/championships" class="btn btn-primary btn-lg" role="button">Gateball Championships</a>
+
+Entries close Tuesday 22 August, 2017 (Midnight WA time)
+________________
+
+
+
 
 ## Tournament Calendar
 
