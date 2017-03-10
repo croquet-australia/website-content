@@ -1,6 +1,6 @@
 ---
 Title: '**2017**'
-Published: 2017-03-10T17:42:14.5823378+11:00
+Published: 2017-03-10T17:43:20.7534208+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -30,7 +30,7 @@ Runner Up: Shirlene McBride
 <br/><img src="/results/winners-presidents-gc-eights-2.jpg" alt="Back Row L-R Ron McBride (SA), David Wise (SA), Terry Hopkins (VIC), Lester Hughes, (VIC) <br/>Front Row L-R Shirlene McBride (SA), Gail Hopkins (VIC), Patricia Watts (VIC), Chris McWhirter (WA)" title="Winners President’s GC Eights, 2017"/>
 
 
-</br/>Back Row L-R Ron McBride (SA), David Wise (SA), Terry Hopkins (VIC), Lester Hughes, (VIC)
-</br/>Front Row L-R Shirlene McBride (SA), Gail Hopkins (VIC), Patricia Watts (VIC), Chris McWhirter (WA).
+<br/>Back Row L-R Ron McBride (SA), David Wise (SA), Terry Hopkins (VIC), Lester Hughes, (VIC)
+<br/>Front Row L-R Shirlene McBride (SA), Gail Hopkins (VIC), Patricia Watts (VIC), Chris McWhirter (WA).
 
 <br/> To read John Grieve's report click [here](/results/presidents-gc-eights.pdf)
