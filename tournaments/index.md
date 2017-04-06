@@ -1,23 +1,34 @@
 ---
 Title: Tournaments index
-Published: 2017-03-07T19:23:17.1088282+11:00
+Published: 2017-04-06T16:39:42.4720784+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-##Entries to the AC Men’s Singles and Women’s Singles are now open - 
+## To enter Golf Croquet Doubles – Saturday 6 to Tuesday 9 May, 2017
+<br/>The Victorian Croquet Centre, Cairnlea
 
-To play in the AC Men’s Singles click
-<br/><a href="/tournaments/2017/ac/mens-open" class="btn btn-primary btn-lg" role="button">Men's</a> 
+<br/><a href="/tournaments/2017/gc/open-doubles" class="btn btn-primary btn-lg" role="button">GC Open Doubles</a>
 
-To play in the AC Women’s Singles click
-<br/><a href="/tournaments/2017/ac/womens-open" class="btn btn-primary btn-lg" role="button">Women's</a>
+Closing date **Thursday 20 April (midnight WA)**
+________________
 
-To attend the Eire Cup Dinner being held on Sunday 26 March click on either button, complete your contact details and specify the number of people you will be paying for to attend. 
+## To enter Golf Croquet Singles – Wednesday 10 to Sunday 14 May, 2017
+<br/>The Victorian Croquet Centre, Cairnlea
 
-Entries close Thursday 16 February, 2017 (Midnight WA time).
+<br/><a href="/tournaments/2017/gc/open-singles" class="btn btn-primary btn-lg" role="button">GC Open Singles</a>
+
+Closing date **Thursday 20 April (midnight WA)**
+________________
+
+## To enter Patron’s Trophy – Saturday 10 to Monday 12 June, 2017
+<br/> Wynnum Croquet Club, Brisbane
+
+<br/><a href="/tournaments/2017/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Patron's Trophy</a>
+
+Closing date **Thursday 1 June (midnight WA)**
 ________________
 
 ##Enter you team to compete in the Australian Gateball Championship
