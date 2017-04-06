@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-04-06T16:44:58.7554085+10:00
+Published: 2017-04-06T16:55:10.3774073+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -34,7 +34,7 @@ ________________
 ##Enter you team to compete in the Australian Gateball Championship
 <br/><a href="/tournaments/2017/gb/championships" class="btn btn-primary btn-lg" role="button">Gateball Championships</a>
 
-Closing date **Tuesday 22 August, 2017 (midnight WA time)**
+Closing date **Tuesday 22 August (midnight WA time)**
 ________________
 
 ## Tournament Calendar
