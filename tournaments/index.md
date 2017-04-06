@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-04-06T19:55:31.1587490+10:00
+Published: 2017-04-06T19:57:05.1627269+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -34,7 +34,7 @@ Wynnum Croquet Club, Brisbane
 
 Closing date **Thursday 1 June (midnight WA time)**
 
-Please download this [flyer](and circulate to your friends and club members.
+Please download this [flyer](tournaments/2017-flyer-patrons-trophy-v2.pdf)and circulate to your friends and club members.
 
 ________________
 
