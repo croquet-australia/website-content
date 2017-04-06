@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-04-06T16:55:10.3774073+10:00
+Published: 2017-04-06T19:55:31.1587490+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,6 +13,8 @@ The Victorian Croquet Centre, Cairnlea
 <br/><a href="/tournaments/2017/gc/open-doubles" class="btn btn-primary btn-lg" role="button">GC Open Doubles</a>
 
 Closing date **Thursday 20 April (midnight WA time)**
+
+Please download this [flyer](tournaments/2017-gc-doubles-flier-cairnlea-may-v2.pdf) and circulate to your friends and club members 
 ________________
 
 ###To enter Golf Croquet Singles – Wednesday 10 to Sunday 14 May, 2017
@@ -21,6 +23,8 @@ The Victorian Croquet Centre, Cairnlea
 <br/><a href="/tournaments/2017/gc/open-singles" class="btn btn-primary btn-lg" role="button">GC Open Singles</a>
 
 Closing date **Thursday 20 April (midnight WA time)**
+
+Please download this [flyer](tournaments/2017-gc-singles-flier-cairnlea-may-v2.pdf)and circulate to your friends and club members.
 ________________
 
 ### To enter Patron’s Trophy – Saturday 10 to Monday 12 June, 2017
@@ -29,6 +33,9 @@ Wynnum Croquet Club, Brisbane
 <br/><a href="/tournaments/2017/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Patron's Trophy</a>
 
 Closing date **Thursday 1 June (midnight WA time)**
+
+Please download this [flyer](and circulate to your friends and club members.
+
 ________________
 
 ##Enter you team to compete in the Australian Gateball Championship
