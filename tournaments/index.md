@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-04-06T16:43:26.2563836+10:00
+Published: 2017-04-06T16:44:58.7554085+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -12,7 +12,7 @@ The Victorian Croquet Centre, Cairnlea
 
 <br/><a href="/tournaments/2017/gc/open-doubles" class="btn btn-primary btn-lg" role="button">GC Open Doubles</a>
 
-Closing date **Thursday 20 April (midnight WA)**
+Closing date **Thursday 20 April (midnight WA time)**
 ________________
 
 ###To enter Golf Croquet Singles – Wednesday 10 to Sunday 14 May, 2017
@@ -20,7 +20,7 @@ The Victorian Croquet Centre, Cairnlea
 
 <br/><a href="/tournaments/2017/gc/open-singles" class="btn btn-primary btn-lg" role="button">GC Open Singles</a>
 
-Closing date **Thursday 20 April (midnight WA)**
+Closing date **Thursday 20 April (midnight WA time)**
 ________________
 
 ### To enter Patron’s Trophy – Saturday 10 to Monday 12 June, 2017
@@ -28,17 +28,14 @@ Wynnum Croquet Club, Brisbane
 
 <br/><a href="/tournaments/2017/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Patron's Trophy</a>
 
-Closing date **Thursday 1 June (midnight WA)**
+Closing date **Thursday 1 June (midnight WA time)**
 ________________
 
 ##Enter you team to compete in the Australian Gateball Championship
 <br/><a href="/tournaments/2017/gb/championships" class="btn btn-primary btn-lg" role="button">Gateball Championships</a>
 
-Entries close Tuesday 22 August, 2017 (Midnight WA time)
+Closing date **Tuesday 22 August, 2017 (midnight WA time)**
 ________________
-
-
-
 
 ## Tournament Calendar
 
