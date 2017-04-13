@@ -1,6 +1,6 @@
 ---
 Title: Governance background
-Published: 2017-04-13T16:13:22.3916736+10:00
+Published: 2017-04-13T16:49:30.0216544+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -24,7 +24,7 @@ The Annual General Meeting was held in Hobart the day after the conclusion of th
 
 Left to Right Graeme Thomas, Murray Tinker, Megan Fardon, Mike Cohn, Don Close, Tony McArthur [Jim Nicholls was absent]
 
-###New Governance Structure
+###Governance Structure
 
 The Australian Croquet Association (ACA) has been incorporated in the ACT since 10 February, 1992.  Prior to the Annual General Meeting held on Monday 23 March, 2015, the Association had a Council consisting of twelve delegates, two from each State Association and an Executive charged with its day to day operation.  The State Associations are –
 
@@ -35,7 +35,7 @@ The Australian Croquet Association (ACA) has been incorporated in the ACT since 
 <br/>The Victorian Croquet Association Incorporated
 <br/>The West Australian Croquet Association Incorporated
 
-<br/>At the AGM, Council unanimously adopted the new [Constitution](/aca-constitution-9-april-2015.pdf). It is a requirement that any change to an Association’s Model Rules be lodged with the ACT Office of Regulatory Services.  Approval was received and from Thursday 9 April, 2015, the Australian Croquet Association moved from an Executive and Council to a Board Structure.
+<br/>At that AGM, Council unanimously adopted the new [Constitution](/aca-constitution-9-april-2015.pdf). It is a requirement that any change to an Association’s Model Rules be lodged with the ACT Office of Regulatory Services.  Approval was received and from Thursday 9 April, 2015, the Australian Croquet Association moved from an Executive and Council to a Board Structure.
 
 To assist with the transition the new Constitution outlined the makeup of the Board for its first year – three of the First Directors were to come from the Executive (President, Senior Vice President and Vice-President) and the remaining six to be selected by their State Association.  
 
@@ -52,7 +52,7 @@ Members of the first Board  -
 
 The President resigned from the Board not wanting to take up a First Director position to pursue his love of croquet by playing the game rather than the being part of its management.  Under the Constitution the Board may operate with between seven and nine members.  
 
-Members of the ACA are the six State Associations and each will appoint a delegate to attend Special General Meetings and Annual General Meetings.  Members of the Board in attendance at these meetings do not have a vote.
+Members of the ACA are the six State Associations and each appoint a delegate to attend Special General Meetings and Annual General Meetings.  Members of the Board are in attendance at these meetings but do not have a vote.
 
 Why was a new Constitution required?
 
