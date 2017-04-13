@@ -1,6 +1,6 @@
 ---
 Title: Governance background
-Published: 2017-04-13T16:10:32.3254278+10:00
+Published: 2017-04-13T16:12:53.0131225+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -12,15 +12,15 @@ Author:
 The Annual General Meeting was held in Hobart the day after the conclusion of the Eire Cup on Monday 27 March.  Two Directors Robyn Wallace and Tricia Vierra did not stand for re-election.  Delegates voted and the Directors for 2017 are –
 
 [Megan Fardon Chair](mailto:chair@croquet-australia.com.au)
-[Mike Cohn, Deputy Chair](mailto: mike.cohn@croquet-australia.com.au)
-[Don Close, Treasurer](mailto:don.close@croquet-australia.com.au)
-[Jim Nicholls](mailto:jim.nicholls@croquet-australia.com.au)
-[Tony McArthur](mailto:tony.mcarthur@croquet-australia.com.au)
-[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
-[Graeme Thomas\(mailto:graeme.thomas@croquet-australia.com.au)
+<br/>[Mike Cohn, Deputy Chair](mailto:mike.cohn@croquet-australia.com.au)
+<br/>[Don Close, Treasurer](mailto:don.close@croquet-australia.com.au)
+<br/>[Jim Nicholls](mailto:jim.nicholls@croquet-australia.com.au)
+<br/>[Tony McArthur](mailto:tony.mcarthur@croquet-australia.com.au)
+<br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
+<br/>[Graeme Thomas\(mailto:graeme.thomas@croquet-australia.com.au)
 
 
-<br/><img src="/governance/img-0084-x4.jpg" alt="2017 Board" title="2017 Board/>
+<br/><img src="/governance/img-0084-x4.jpg" alt="2017 Board" title="2017 Board"/>
 
 Left to Right Graeme Thomas, Murray Tinker, Megan Fardon, Mike Cohn, Don Close, Tony McArthur [Jim Nicholls was absent]
 
