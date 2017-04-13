@@ -1,6 +1,6 @@
 ---
 Title: Governance background
-Published: 2017-04-13T16:12:53.0131225+10:00
+Published: 2017-04-13T16:13:22.3916736+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -17,7 +17,7 @@ The Annual General Meeting was held in Hobart the day after the conclusion of th
 <br/>[Jim Nicholls](mailto:jim.nicholls@croquet-australia.com.au)
 <br/>[Tony McArthur](mailto:tony.mcarthur@croquet-australia.com.au)
 <br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
-<br/>[Graeme Thomas\(mailto:graeme.thomas@croquet-australia.com.au)
+<br/>[Graeme Thomas](mailto:graeme.thomas@croquet-australia.com.au)
 
 
 <br/><img src="/governance/img-0084-x4.jpg" alt="2017 Board" title="2017 Board"/>
