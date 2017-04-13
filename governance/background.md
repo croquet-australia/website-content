@@ -1,12 +1,29 @@
 ---
 Title: Governance background
-Published: 2016-08-31T10:24:37.9284959+10:00
+Published: 2017-04-13T16:08:19.9653297+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+###2017 Board
+
+The Annual General Meeting was held in Hobart the day after the conclusion of the Eire Cup on Monday 27 March.  Two Directors Robyn Wallace and Tricia Vierra did not stand for re-election.  Delegates voted and the Directors for 2017 are –
+
+Megan Fardon, Chair (mailto:chair@croquet-australia.com.au)
+Mike Cohn, Deputy Chair(mailto: mike.cohn@croquet-australia.com.au)
+Don Close, Treasurer(mailto:don.close@croquet-australia.com.au)
+Jim Nicholls(mailto:jim.nicholls@croquet-australia.com.au)
+Tony McArthur(mailto:tony.mcarthur@croquet-australia.com.au)
+Murray Tinker(mailto:murray.tinker@croquet-australia.com.au)
+Graeme Thomas(mailto:graeme.thomas@croquet-australia.com.au)
+
+
+<br/><img src="/governance/img-0084-x4.jpg " alt="2017 Board" title="2017 Board/>
+
+Left to Right Graeme Thomas, Murray Tinker, Megan Fardon, Mike Cohn, Don Close, Tony McArthur [Jim Nicholls was absent]
+
 ###New Governance Structure
 
 The Australian Croquet Association (ACA) has been incorporated in the ACT since 10 February, 1992.  Prior to the Annual General Meeting held on Monday 23 March, 2015, the Association had a Council consisting of twelve delegates, two from each State Association and an Executive charged with its day to day operation.  The State Associations are –
