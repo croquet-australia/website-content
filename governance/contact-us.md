@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2017-04-13T16:50:33.7376710+10:00
+Published: 2017-04-13T16:51:24.9224509+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -41,6 +41,7 @@ Author:
 <br/>Mob:0417 228 155
 
 <br/>[Jim Nicholls](mailto:jim.nicholls@croquet-australia.com.au)
+
 <br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
 <br/>PO BOX 59, SPRING HILL QLD 4004
 <br/>Mob:0405 005 019
