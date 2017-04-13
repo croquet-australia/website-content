@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2016-10-18T13:21:21.1435976+11:00
+Published: 2017-04-13T16:46:25.3495956+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -25,38 +25,29 @@ Author:
 
 ##**DIRECTORS** 
 
-<br/>[Robyn Wallace](mailto:chair@croquet-australia.com.au), Chair
-<br/>9 The Avenue, LORN NSW 2320
-<br/>Ph: 02.4934 1135; Mob: 0412 380 313
-
-<br/>[Megan Fardon](mailto:megan.fardon@croquet-australia.com.au), Deputy Chair
+<br/>[Megan Fardon](mailto:chair@croquet-australia.com.au), Chair
 <br/>10 Solomon Street, MOSMAN PARK WA 6012
 <br/>Ph: 08.9384 8053; Mob: 0403 981 866
+
+<br/>[Mike Cohn](mailto:mike.cohn@croquet-australia.com.au), Deputy Chair
+<br/>212 Burke Road, GLEN IRIS VIC 3146
+<br/>Ph: 03.9885 6304; Mob:0412 294 150
 
 <br/> [Don Close](mailto:don.close@croquet-australia.com.au), Treasurer 
 <br/>156 Kent Street, ROCKHAMPTON QLD 4700
 <br/>Ph: 07.4922 4111; Mob: 0418 791 486
 
-<br/>[Mike Cohn](mailto:mike.cohn@croquet-australia.com.au)
-<br/>212 Burke Road, GLEN IRIS VIC 3146
-<br/>Ph: 03.9885 6304; Mob:0412 294 150
+<br/>[Tony McArthur](mailto:tony.mcarthur@croquet-australia.com.au)
+<br/>Mob:0417 228 155
 
-<br/>[Jim Saunders](mailto:jim.saunders@croquet-australia.com.au)
-<br/>8 Terrigal Court, LEOPOLD VIC 3224
-<br/>Ph: 03.5250 5250; Mob: 0417 541 311
+<br/>[Jim Nicholls](mailto:jim.nicholls@croquet-australia.com.au)
 
 <br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
 <br/>PO BOX 59, SPRING HILL QLD 4004
 <br/>Mob:0405 005 019
 
-<br/>[Graeme Thomas](mailto:graeme.thomas@croquet-australia.com)
+<br/>[Graeme Thomas](mailto:graeme.thomas@croquet-australia.com.au)
 <br/>Mob:0408 843 526
-
-<br/>[Tricia Vierra](mailto:tricia.vierra@croquet-australia.com.au)
-<br/> Mob: 0478 296 678
-
-
-
 
 
 <a name="committees"></a>
