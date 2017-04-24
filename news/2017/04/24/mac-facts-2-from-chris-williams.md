@@ -1,13 +1,13 @@
 ---
 Title: 'Mac Facts #2 from Chris Williams'
-Published: 2017-04-24T13:14:00.0486309+10:00
+Published: 2017-04-24T13:14:46.1567949+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<img src="/macrobertson-international-croquet-shield-4.jpg"
+<img src="/macrobertson-international-croquet-shield-4.jpg"/>
 
 
 Greg Fletcher became the second player, after Mark Saurin in 1990, and the first Australian, to win all 5 matches on his debut in the MacRobertson Shield.
