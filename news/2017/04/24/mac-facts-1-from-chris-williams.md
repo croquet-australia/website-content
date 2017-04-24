@@ -1,13 +1,13 @@
 ---
 Title: 'Mac Facts #1 from Chris Williams'
-Published: 2017-04-24T13:04:58.5342859+10:00
+Published: 2017-04-24T13:05:45.1513899+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-<img src="/macrobertson-international-croquet-shield-3.jpg"
+<img src="/macrobertson-international-croquet-shield-3.jpg"/>
 
 Australia's win over England in the first test was their first over England since 1935, when Australia last won the Mac. Australia have won the Mac 3 times with all 3 wins taking place in Melbourne, Australia.
 
