@@ -1,5 +1,5 @@
 ---
-Title: Australia breaks an eight-two year drought
+Title: Australia breaks an eighty-two year drought
 Published: 2017-05-04T18:10:00.0000000+10:00
 Author:
   Name: Susan Linge
