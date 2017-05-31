@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2017-05-31T12:36:38.9912861+10:00
+Published: 2017-05-31T12:37:50.4864495+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -31,7 +31,7 @@ Pages of the Manual may be amended periodically as the rules are revised, polici
 | [Victoria Co-ordinator of Refereeing](mailto:john.vandertouw@gmail.com) | John van der Touw| 03.9803 3433|
 | [Tasmania Director of Refereeing](mailto:gdenehey@bigpond.net.au) | Graeme Denehey | 03.6229 6318 |
 | [South Australia Co-ordinator of Refereeing](mailto:gcrefereeing@croquetsa.com.au) | Vacant |  |
-| [Western Australia Director of Refereeing](mailto:glenglen@iinet.net.au) |John Doepal | 0427 364 107 |
+| [Western Australia Director of Refereeing](mailto:glenglen@iinet.net.au) |John Doepel | 0427 364 107 |
 
 ###Golf Croquet Rules
 <br/>- [*The Rules of Golf Croquet* November 2013, Adopted ACA 1 January, 2014](/the-rules-of-golf-croquet-aca-final-6-2-effective-1-january-2014docx.pdf).
