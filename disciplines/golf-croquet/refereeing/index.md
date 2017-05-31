@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2017-05-31T12:36:21.3552071+10:00
+Published: 2017-05-31T12:36:38.9912861+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -25,7 +25,7 @@ Pages of the Manual may be amended periodically as the rules are revised, polici
 
 | | |
 |-|-|
-| [National Co-ordinator of Refereeing](mailto:ACA_ncrgc@croquet-australia.com.au) | Jim Clement | 03.51568149 |
+| [National Co-ordinator of Refereeing](mailto:ACA_ncrgc@croquet-australia.com.au) | Jim Clement | 03.5156 8149 |
 | [Queensland Director of Refereeing](mailto:refereeing@croquetqld.org) | Wayne Strong | |
 | [New South Wales Director of Refereeing](mailto:smith.bevj@gmail.com) | Bev Smith  | 02.4933 6164 |
 | [Victoria Co-ordinator of Refereeing](mailto:john.vandertouw@gmail.com) | John van der Touw| 03.9803 3433|
