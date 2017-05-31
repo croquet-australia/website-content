@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Golf Croquet (GC)
-Published: 2016-02-16T14:05:35.4354136+11:00
+Published: 2017-05-31T12:36:21.3552071+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -25,13 +25,13 @@ Pages of the Manual may be amended periodically as the rules are revised, polici
 
 | | |
 |-|-|
-| [National Director of Refereeing](mailto:ndrgc@croquet-australia.com.au) | Vacant | |
-| [Queensland Director of Refereeing](mailto:refereeing@croquetqld.org) | Doug Wiliams | |
+| [National Co-ordinator of Refereeing](mailto:ACA_ncrgc@croquet-australia.com.au) | Jim Clement | 03.51568149 |
+| [Queensland Director of Refereeing](mailto:refereeing@croquetqld.org) | Wayne Strong | |
 | [New South Wales Director of Refereeing](mailto:smith.bevj@gmail.com) | Bev Smith  | 02.4933 6164 |
 | [Victoria Co-ordinator of Refereeing](mailto:john.vandertouw@gmail.com) | John van der Touw| 03.9803 3433|
 | [Tasmania Director of Refereeing](mailto:gdenehey@bigpond.net.au) | Graeme Denehey | 03.6229 6318 |
-| [South Australia Co-ordinator of Refereeing](mailto:gcrefereeing@croquetsa.com.au) | Bernie Pfitzner | 08.8554 3356 0412 236 673 |
-| Western Australia Director of Refereeing | Vacant | - |
+| [South Australia Co-ordinator of Refereeing](mailto:gcrefereeing@croquetsa.com.au) | Vacant |  |
+| [Western Australia Director of Refereeing](mailto:glenglen@iinet.net.au) |John Doepal | 0427 364 107 |
 
 ###Golf Croquet Rules
 <br/>- [*The Rules of Golf Croquet* November 2013, Adopted ACA 1 January, 2014](/the-rules-of-golf-croquet-aca-final-6-2-effective-1-january-2014docx.pdf).
