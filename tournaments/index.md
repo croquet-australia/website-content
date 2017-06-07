@@ -1,21 +1,12 @@
 ---
 Title: Tournaments index
-Published: 2017-05-21T11:07:03.3970818+10:00
+Published: 2017-06-07T16:26:04.3533901+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-### To enter Patron’s Trophy – Saturday 10 to Monday 12 June, 2017
-Wynnum Croquet Club, Brisbane
-
-<br/><a href="/tournaments/2017/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Patron's Trophy</a>
-
-Closing date **Thursday 1 June (midnight WA time)**
-
-Please download this [flyer](tournaments/2017-flyer-patrons-trophy-v2.pdf)and circulate to your friends and club members.
-
 ________________
 
 ##Enter you team to compete in the Australian Gateball Championship
