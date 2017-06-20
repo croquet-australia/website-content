@@ -1,12 +1,16 @@
 ---
 Title: Tournaments index
-Published: 2017-06-07T16:26:04.3533901+10:00
+Published: 2017-06-20T12:12:13.8948796+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+## President's AC Eights - Expressions of Interest
+(https://croquet-australia.com.au/tournaments/2017/ac/presidents-eights-expressions-of-interest)
+
+
 ________________
 
 ##Enter you team to compete in the Australian Gateball Championship
