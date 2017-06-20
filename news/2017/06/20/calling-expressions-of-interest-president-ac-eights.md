@@ -1,6 +1,6 @@
 ---
 Title: Calling Expressions of Interest - President AC Eights
-Published: 2017-06-20T12:09:34.9139341+10:00
+Published: 2017-06-20T12:34:22.5092054+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,7 +9,7 @@ Author:
 ---
 The President’s AC Eights is being held at the Victorian Croquet Centre from Friday 6 to Monday 9 October, 2017.
 
-Expressions of interest are being sought to play in this event and you can register via the [ACA website](https://croquet-australia.com.au/tournaments/2017/ac/presidents-eights-expressions-of-interest)
+Expressions of interest are being sought to play in this event and you can register by clicking [here](https://croquet-australia.com.au/tournaments/2017/ac/presidents-eights-expressions-of-interest)
 
 Closing date is **Monday 24 July** (midnight Western Australian time).
 
