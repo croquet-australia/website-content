@@ -1,6 +1,6 @@
 ---
-Title: Play Golf Croquet?  <br/>Want to play in warmer climes – enter GC Men’s and Women’s Singles Now!
-Published: 2017-06-23T10:41:29.0440774+10:00
+Title: Play Golf Croquet?  Want to play in warmer climes – enter GC Men’s and Women’s Singles Now!
+Published: 2017-06-23T10:47:23.6817513+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
