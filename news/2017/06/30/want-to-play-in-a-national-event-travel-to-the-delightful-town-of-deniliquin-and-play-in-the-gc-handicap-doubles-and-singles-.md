@@ -1,6 +1,6 @@
 ---
-Title: Want to play in a national event? Travel to the delightful town of Deniliquin and play in the GC Handicap Doubles and Singles.
-Published: 2017-06-30T16:18:56.6805768+10:00
+Title: Want to play in a national event? Travel to the delightful town of Deniliquin and play in the GC Handicap Doubles and Singles
+Published: 2017-06-30T16:24:33.8596589+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
