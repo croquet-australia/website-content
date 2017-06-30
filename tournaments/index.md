@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-06-30T16:22:23.3789347+10:00
+Published: 2017-06-30T16:24:04.8801077+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,7 +13,7 @@ Author:
 
 <br/><a href="/tournaments/2017/gc/handicap-singles" class="btn btn-primary btn-lg" role="button">Enter Handicap Singles</a>
 
-Closiing date **Thursday 19 October, 2017** (midnight WA time)
+Closing date **Thursday 19 October, 2017** (midnight WA time)
 ________________
 
 ##Australian Golf Croquet Men's and Women's Singles - entries
