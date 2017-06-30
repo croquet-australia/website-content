@@ -1,6 +1,6 @@
 ---
 Title: Want to play in a national event? Travel to the delightful town of Deniliquin and play in the GC Handicap Doubles and Singles
-Published: 2017-06-30T16:24:33.8596589+10:00
+Published: 2017-06-30T16:24:55.5273124+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -12,7 +12,3 @@ The Golf Croquet Handicap Double and Singles are being held at the Deniliquin Cr
 You can enter by clicking on [Doubles](https://croquet-australia.com.au/tournaments/2017/gc/handicap-doubles).  [Singles](https://croquet-australia.com.au/tournaments/2017/gc/handicap-singles).
 
 Closing date is **Thursday 19 October, 2017** (midnight WA time)
-
-
-Want to play in a national event?
-Travel to the delightful town of Deniliquin and play in the GC Handicap Doubles and Singles.
