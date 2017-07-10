@@ -1,6 +1,6 @@
 ---
 Title: governance/minutes/board meeting minutes
-Published: 2017-07-10T10:04:04.3037183+10:00
+Published: 2017-07-10T10:06:26.0874925+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -11,6 +11,8 @@ Author:
 [Monday 27 March](/governance/minutes/minutes-27-march-2017-public-version.pdf)
 
 [Tuesday 28 March](/minutes-tuesday-28-march-public-version.pdf)
+
+[Thursday 4 May](/governance/minutes/minutes-thursday-4-may-2017-public-version.pdf')
 
 
 ###**2016**
