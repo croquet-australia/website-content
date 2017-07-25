@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-07-25T17:23:58.5184717+10:00
+Published: 2017-07-25T17:24:03.8649077+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
