@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-07-25T17:24:03.8649077+10:00
+Published: 2017-08-04T14:56:36.4830786+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -22,18 +22,6 @@ ________________
 <br/><a href="/tournaments/2017/gc/womens-open" class="btn btn-primary btn-lg" role="button">Enter Women's Open</a>
 
 Closing date **Thursday 3 August** (midnight WA time)
-________________
-
-## President's AC Eights - Expressions of Interest
-<br/><a href="/tournaments/2017/ac/presidents-eights-expressions-of-interest" class="btn btn-primary btn-lg" role="button">Submit EOI</a>
-
-Closing date **Monday 24 July** (midnight WA time).
-________________
-
-##WCF AC WC 2018 - Expressions of Interest
-<br/><a href="/tournaments/2018/ac/wcf-world-championship-eoi" class="btn btn-primary btn-lg" role="button">Submit EOI</a>
-
-Closing date **Sunday 9 July** (midnight WA time.)
 ________________
 
 ##Enter you team to compete in the Australian Gateball Championship
