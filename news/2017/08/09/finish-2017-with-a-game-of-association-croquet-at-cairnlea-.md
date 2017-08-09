@@ -1,6 +1,6 @@
 ---
 Title: Finish 2017 with a game of Association Croquet at Cairnlea!
-Published: 2017-08-09T11:07:00.9973998+10:00
+Published: 2017-08-09T11:07:36.4479555+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -15,4 +15,4 @@ and [Singles](https://croquet-australia.com.au/tournaments/2017/ac/open-singles)
 
 Closing date is **Thursday 12 October, 2017** (midnight Western Australian time).
 
-If you have any queries please do not hesitate to contact [Peter Freer]Chair Events Committee(mailto:events@croquet-australia.com.au).
+If you have any queries please do not hesitate to contact [Peter Freer](mailto:events@croquet-australia.com.au)Chair Events Committee
