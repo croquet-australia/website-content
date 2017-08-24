@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2017-08-24T15:00:54.5854486+10:00
+Published: 2017-08-24T15:03:23.7919487+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -57,13 +57,13 @@ Author:
 <br/>[Peter Freer (Chair)](mailto:events@croquet-australia.com.au)
 <br/>Mob: 0412 178 254
 <br/>Bob Godfrey
-<br/>Greg Diprose
+<br/>Peter Tracey
 ###**Tournament Committee**
 <br/>[Trevor Bassett (Chair)](mailto:tournaments@croquet-australia.com.au)
 <br/>Mob: 0410 034 008
 <br/>Kevin Beard 
 <br/>Terry Ericson
-<br/>Peter Landrebe 
+<br/> 
 ###**AC Selection Committee**
 <br/>[Anne Quinn (Chair)](Mailto:acselectors@croquet-australia.com.au)
 <br/> Mob: 0408 332 690
@@ -81,7 +81,7 @@ Author:
 <a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
 <br/>**High Performance Manager – Association Croquet**
-<br/>[Peter Landrebe](mailto:achpm@croquet-australia.com.au)
+<br/>[Vacant](mailto:achpm@croquet-australia.com.au)
 <br/>Mob: 0425 223 878
 
 <br/>**High Performance Manager – Golf Croquet**
