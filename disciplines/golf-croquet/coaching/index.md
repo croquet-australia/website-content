@@ -1,6 +1,6 @@
 ---
 Title: Coaching Golf Croquet (GC)
-Published: 2016-09-26T11:34:08.8687910+10:00
+Published: 2017-08-24T15:53:45.7982526+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,10 +13,10 @@ Author:
 
 | | |
 |-|-|
-|[National Director of Coaching](mailto:ncdgc@croquet-australia.com.au)|Barb Piggott |0427 629 953|
+|[National Director of Coaching](mailto:ncdgc@croquet-australia.com.au)|Vacant | |
 |[Queensland Director of Coaching](mailto:coaching@croquetqld.org)|Lynda Davis|0416 013 390|
-|[New South Wales Director of Coaching](mailto:johnpiggott@bigpond.com)|Barb Piggott |0427 629 953|
-|[Victoria State Co-ordinator of Golf Croquet](mailto:golfcroquet@croquetvic.asn.au)|Lorraine Gutcher |03.5134 4990|
+|[New South Wales Director of Coaching](mailto:pamgentle@bigpond.com)|Pam Gentle |0423 411 289|
+|[Victoria State Co-ordinator of Coaching](mailto:coaching@croquetvic.asn.au)|Ruth Duffy |02.6033 3864|
 |[Tasmania State Director of Coaching](mailto:btbunch@vision.net.au)|Sue Beattie |03.6229 5702|
-|[South Australia State Co-ordinator of Coaching](mailto:gccoaching@croquetsa.com.au)|Barry Haydon |0419 424 184|
-|Western Australia State Director of Coaching|Vacant |-|
+|[South Australia State Co-ordinator of Coaching](mailto:gccoaching@croquetsa.com.au)|Robert Weaver |0407 796 265|
+|Western Australia State Director of Coaching|(mailto:sandras1901@hotmail.com)|Sandra Stevenson| |
