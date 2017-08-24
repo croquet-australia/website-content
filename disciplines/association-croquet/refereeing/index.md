@@ -1,6 +1,6 @@
 ---
 Title: Refereeing Association Croquet (AC)
-Published: 2017-08-24T16:18:36.9211268+10:00
+Published: 2017-08-24T16:19:01.7979756+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -18,4 +18,4 @@ Author:
 |[Victoria Co-ordinator of Refereeing](mailto:acreferees@croquetvic.asn.au)|Brian Foley |03.9584 8405, 0407 508 186|
 |[Tasmania Director of Refereeing](mailto:ebassett@bigpond.com)|Lizzie Bassett | |
 |[South Australia Co-ordinator of Refereeing](mailto:acrefereeing@croquetsa.com.au)|James Temlett |08.8272 0973|
-|[Western Australia Director of Refereeing]|Vacant | |
+|Western Australia Director of Refereeing|Vacant | |
