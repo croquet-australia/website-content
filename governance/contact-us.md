@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2017-08-24T14:59:27.6405684+10:00
+Published: 2017-08-24T15:00:54.5854486+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -66,7 +66,7 @@ Author:
 <br/>Peter Landrebe 
 ###**AC Selection Committee**
 <br/>[Anne Quinn (Chair)](Mailto:acselectors@croquet-australia.com.au)
-<br/>Ph: 02.6281 3703; Mob: 0407 300 110
+<br/> Mob: 0408 332 690
 <br/>Trevor Bassett
 <br/>Martin Clarke
 <br/>Captain - Ian Dumergue 
