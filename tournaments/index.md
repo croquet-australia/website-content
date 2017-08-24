@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2017-08-09T11:03:48.9344676+10:00
+Published: 2017-08-24T14:52:52.9519181+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -42,6 +42,7 @@ ________________
 ## Tournament Calendar
 
 ### 2017-2021
+- [Tournament Calendar](/tournaments/aca-tournament-calendar-as-at-august-2018.pdf) as at 10 August, 2017
 - [Tournament Calendar](/tournaments/aca-tournament-calendar.pdf) as at 7 August, 2017
 - [Tournament Calendar](/tournaments/aca-tournament-calendar.pdf) as at 25 July, 2017
 - [Tournament Calendar](/tournaments/aca-tournament-calendar-as-at-20-dec-2016.pdf) as at 20 December, 2016
