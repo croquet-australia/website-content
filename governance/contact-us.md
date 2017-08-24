@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2017-04-13T16:51:24.9224509+10:00
+Published: 2017-08-24T14:59:27.6405684+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -65,12 +65,12 @@ Author:
 <br/>Terry Ericson
 <br/>Peter Landrebe 
 ###**AC Selection Committee**
-<br/>[Stephen Richards (Chair)](Mailto:acselectors@croquet-australia.com.au)
+<br/>[Anne Quinn (Chair)](Mailto:acselectors@croquet-australia.com.au)
 <br/>Ph: 02.6281 3703; Mob: 0407 300 110
-<br/>Tim Murphy
-<br/>Anne Quinn
+<br/>Trevor Bassett
+<br/>Martin Clarke
 <br/>Captain - Ian Dumergue 
-<br/>HPM AC - Peter Landrebe
+<br/>HPM AC
 ###**GC Selection Committee**
 <br/>[Terry Ericson(Chair)](mailto:gcselectors@croquet-australia.com.au)
 <br/>Mob: 0403 424 312
