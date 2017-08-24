@@ -1,6 +1,6 @@
 ---
-Title: governance\state associations
-Published: 2015-06-02T13:27:38.0364858+10:00
+Title: governance/state associations
+Published: 2017-08-24T16:03:04.5647855+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,7 +9,7 @@ Author:
 ---
 <img src= "/nswlogo2.jpg" alt= "CNSW logo" title= "CNSW logo"/> New South Wales [Croquet NSW Inc](http://www.croquet-nsw.org/contact.html)
 
-<img src= "/caq-logo3.png" alt= "CAQ logo" title= "CAQ logo"/> Queensland [Croquet Queensland](http://croquetqld.org/672-2/)
+<img src= "/caq-logo3.png" alt= "CAQ logo" title= "CAQ logo"/> Queensland [Croquet Queensland](http://www.croquetqld.org/contact-us/)
 
 <img src= "/croquetsa-round3.jpg" alt= "SACA logo" title= "SACA logo"/> South Australia [Croquet SA](http://www.croquetsa.com.au/?page_id=3238)
 
