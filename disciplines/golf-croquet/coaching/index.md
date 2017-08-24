@@ -1,6 +1,6 @@
 ---
 Title: Coaching Golf Croquet (GC)
-Published: 2017-08-24T15:53:45.7982526+10:00
+Published: 2017-08-24T15:57:32.3059221+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -19,4 +19,4 @@ Author:
 |[Victoria State Co-ordinator of Coaching](mailto:coaching@croquetvic.asn.au)|Ruth Duffy |02.6033 3864|
 |[Tasmania State Director of Coaching](mailto:btbunch@vision.net.au)|Sue Beattie |03.6229 5702|
 |[South Australia State Co-ordinator of Coaching](mailto:gccoaching@croquetsa.com.au)|Robert Weaver |0407 796 265|
-|Western Australia State Director of Coaching|(mailto:sandras1901@hotmail.com)|Sandra Stevenson| |
+|[Western Australia State Director of Coaching](mailto:sandras1901@hotmail.com)|Sandra Stevenson| |
