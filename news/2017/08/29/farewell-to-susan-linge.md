@@ -1,6 +1,6 @@
 ---
 Title: Farewell to Susan Linge
-Published: 2017-08-29T14:30:09.6799656+10:00
+Published: 2017-08-29T14:30:21.1910693+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
