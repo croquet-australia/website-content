@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2017-08-24T15:03:23.7919487+10:00
+Published: 2017-09-18T16:04:36.5017656+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -85,7 +85,8 @@ Author:
 <br/>Mob: 0425 223 878
 
 <br/>**High Performance Manager – Golf Croquet**
-<br/>[Vacant](mailto:gchpm@croquet-australia.com.au)
+<br/>[Ron McBride](mailto:gchpm@croquet-australia.com.au)
+<br/>Mob: 0427 259 751 
 
 <br/>**National Co-ordinator Gateball**
 <br/>[John Park](mailto:info@gateball.com.au)
@@ -102,11 +103,16 @@ Author:
 <br/>Mob: 0418 158 701
 
 <br/>**National Coaching Co-ordinator Golf Croquet**
-<br/> [Vacant](mailto:ncdgc@croquet-australia.com.au)
+<br/> [Ron McBride](mailto:ncdgc@croquet-australia.com.au)
+<br/>Mob: 0427 259 751 
 
 <br/>**National Co-ordinator Under 21 Croquet**
 <br/>[Jacky McDonald](mailto:ndu21c@croquet-australia.com.au)
 <br/>Ph: 02.4932 1792; Mob: 0409 246 294 
+
+<br/>**National Coach Under 21 Croquet**
+<br/>[Terry Ericson]
+<br/>Mob: 0403 424 312 
 
 <br/>**Complaints Officer**
 <br/>[Vacant](mailto:complaints@croquet-australia.com.au)
