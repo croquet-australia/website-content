@@ -1,6 +1,6 @@
 ---
-Title: 2017 AC President's Eights
-Published: 2017-10-24T16:36:03.9660459+11:00
+Title: 2017 AC President's Eights - SURVEY
+Published: 2017-10-24T17:35:52.3964720+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
