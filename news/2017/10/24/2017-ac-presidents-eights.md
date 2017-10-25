@@ -1,6 +1,6 @@
 ---
 Title: 2017 AC President's Eights - SURVEY
-Published: 2017-10-24T17:35:52.3964720+11:00
+Published: 2017-10-26T10:51:27.6463036+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -15,6 +15,6 @@ ACA would like to hear from you re the recent AC President's Eights event at Cai
   
 - If you did, what went well and what didn’t?  
 
-[https://www.surveymonkey.com/r/ACEights7]
+[AC President's Eight Survey](https://www.surveymonkey.com/r/ACEights17)
 
 Please spread the word that this survey is open until 10 November.
