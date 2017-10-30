@@ -1,36 +1,21 @@
 ---
 Title: Tournaments index
-Published: 2017-08-24T14:55:44.2375598+10:00
+Published: 2017-10-30T11:06:45.1129674+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-##Association Croquet Open Doubles and Singles - Entries
+##Golf Croquet Under 21 Doubles and Singles - Entries
 
-<a href="/tournaments/2017/ac/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Open  Doubles</a>
+<a href="/tournaments/2018/gc/u21-doubles" class="btn btn-primary btn-lg" role="button">Enter U21 Doubles</a>
 
-<a href="/tournaments/2017/ac/open-singles" class="btn btn-primary btn-lg" role="button">Enter Open Singles</a>
+<a href="/tournaments/2018/gc/u21-singles" class="btn btn-primary btn-lg" role="button">Enter U21 Singles</a>
 
-Closing date **Thursday 12 October, 2017** (midnight WA time)
-________________
+Closing date **Friday 15 December, 2017** (midnight WA time)
 
-##Golf Croquet Handicap Doubles and Singles - entries
 
-<br/><a href="/tournaments/2017/gc/handicap-doubles" class="btn btn-primary btn-lg" role="button">Enter Handicap Doubles</a>
-
-<br/><a href="/tournaments/2017/gc/handicap-singles" class="btn btn-primary btn-lg" role="button">Enter Handicap Singles</a>
-
-Closing date **Thursday 19 October, 2017** (midnight WA time)
-________________
-
-##Australian Golf Croquet Men's and Women's Singles - entries
-<br/><a href="/tournaments/2017/gc/mens-open" class="btn btn-primary btn-lg" role="button">Enter Men's Open</a>
-
-<br/><a href="/tournaments/2017/gc/womens-open" class="btn btn-primary btn-lg" role="button">Enter Women's Open</a>
-
-Closing date **Thursday 3 August** (midnight WA time)
 ________________
 
 ## Tournament Calendar
