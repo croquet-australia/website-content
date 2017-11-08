@@ -1,6 +1,6 @@
 ---
 Title: governance/minutes/board meeting minutes
-Published: 2017-11-08T15:46:24.1440250+11:00
+Published: 2017-11-08T15:48:06.0270640+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -8,6 +8,8 @@ Author:
 
 ---
 ###**2017**
+[Tuesday 12 September](/governance/minutes/minutes-tuesday-12-september-pv.pdf)
+
 [Special General Meeting - Monday 11 September](/governance/minutes/minutes-of-sgm-monday-11-sept.pdf)
 
 [Thursday 3 August](/governance/minutes/minutes-thursday-3-august-2017-pv.pdf)
