@@ -1,6 +1,6 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2017-11-08T15:25:14.6194478+11:00
+Published: 2017-11-08T15:27:47.1970191+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -30,7 +30,7 @@ Author:
 ###Policies
 
 **2017**
-<br/>[ACA Scholarship Policy - November 2017](/aca-scholarship-policy.pdf)
+<br/>[ACA Scholarship Policy - November 2017](/aca-sholarship-policy.pdf)
 
 <br/>[ACA Election Policy - December 2016](/governance/election-policy-1.pdf)
 
