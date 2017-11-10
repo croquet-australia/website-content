@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2017-09-18T16:04:36.5017656+10:00
+Published: 2017-11-10T15:57:51.2619582+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -47,6 +47,7 @@ Author:
 <br/>Mob:0405 005 019
 
 <br/>[Graeme Thomas](mailto:graeme.thomas@croquet-australia.com.au)
+<br/>11A Dunedin St DOVER GARDENS  SA 5048
 <br/>Mob:0408 843 526
 
 
@@ -81,7 +82,7 @@ Author:
 <a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
 <br/>**High Performance Manager – Association Croquet**
-<br/>[Vacant](mailto:achpm@croquet-australia.com.au)
+<br/>[Peter Landrebe](mailto:achpm@croquet-australia.com.au)
 <br/>Mob: 0425 223 878
 
 <br/>**High Performance Manager – Golf Croquet**
