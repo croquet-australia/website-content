@@ -1,12 +1,21 @@
 ---
 Title: Tournaments index
-Published: 2017-10-30T11:06:45.1129674+11:00
+Published: 2017-11-13T15:36:57.1048756+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+##Golf Croquet President's Eights - Expressions of interest
+
+<a href="/tournaments/2018/gc/presidents-eights-expressions-of-interest" class="btn btn-primary btn-lg" role="button">Express Interest - Pres Eights</a>
+
+Closing date **Tuesday 30 November, 2017** (midnight WA time)
+
+
+________________
+
 ##Golf Croquet Under 21 Doubles and Singles - Entries
 
 <a href="/tournaments/2018/gc/u21-doubles" class="btn btn-primary btn-lg" role="button">Enter U21 Doubles</a>
