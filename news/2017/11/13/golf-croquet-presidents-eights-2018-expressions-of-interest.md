@@ -1,6 +1,6 @@
 ---
 Title: Golf Croquet President's Eights 2018 - Expressions of Interest
-Published: 2017-11-13T15:41:24.4821594+11:00
+Published: 2017-11-13T16:34:28.6106736+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -17,4 +17,4 @@ Expressions of interest are being sought to play in this event and you can regis
 
 Closing date is **Tuesday 30 November** (midnight Western Australian time).
 
-If you have any queries please do not hesitate to contact [Terry Ericson](glenleslie@bigpond.com)
+If you have any queries please do not hesitate to contact [Terry Ericson](glenleslie@bigpond.com).
