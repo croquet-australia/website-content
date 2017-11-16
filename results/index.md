@@ -1,6 +1,6 @@
 ---
 Title: '**2017**'
-Published: 2017-11-16T15:38:17.5807728+11:00
+Published: 2017-11-16T15:40:05.1652301+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -11,7 +11,7 @@ Author:
 
 ##**Australian AC Open Doubles**
 Winners:  Greg Fletcher and Edward Wilson    Runners up:  Robert Fletcher and Malcolm Fletcher
-Plate - Winners:  Kevin Beard and Terry Hopkins
+#Plate - Winners:  Kevin Beard and Terry Hopkins
 
 ##**Australian GC Handicap Singles Championship**
 Winner:  Andy Davis     Runner up:  Ron McBride
