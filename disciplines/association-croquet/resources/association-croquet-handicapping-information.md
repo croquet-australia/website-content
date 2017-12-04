@@ -1,6 +1,6 @@
 ---
 Title: disciplines/association croquet/resources/association croquet handicapping information
-Published: 2017-12-04T12:19:27.9424627+11:00
+Published: 2017-12-04T12:21:52.6233055+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
