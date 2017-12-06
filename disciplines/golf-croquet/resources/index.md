@@ -1,6 +1,6 @@
 ---
 Title: '**The New Golf Croquet Handicapping System - effective 3 April, 2017**'
-Published: 2016-09-30T17:36:04.1485589+10:00
+Published: 2017-12-06T16:19:31.9580275+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -118,8 +118,6 @@ You may download a copy of the above by clicking [here](/disciplines/golf-croque
 <br/>- [*ACA Refereeing Regulations*](/aca-refereeing-regulations-october-2015.pdf)
 
 <br/>- [*The Golf Croquet Refereeing Manual* - April 2015](/gc-refereeing-manual-april-2015.pdf)
-
-<br/>- [Golf Croquet - Handicap Regulations](/gc-handicap-regulations-2014-effective-1-january-2014-2docx.pdf)
 
 <br/>- [Golf Croquet World Rankings](http://rank.worldcroquet.org/gcrank/rank.php)
 
