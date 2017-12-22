@@ -1,6 +1,6 @@
 ---
 Title: Christmas and New Year
-Published: 2017-12-22T17:03:47.9613333+11:00
+Published: 2017-12-22T17:05:11.9813630+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -14,4 +14,5 @@ The ACA office and phones will be unattended until the New Year.
 We look forward to seeing you on the lawns in 2018.
 
 Graeme Thomas
+
 A/g Secretary/Administrator
