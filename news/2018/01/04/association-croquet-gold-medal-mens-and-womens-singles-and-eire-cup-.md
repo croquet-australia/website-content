@@ -1,6 +1,6 @@
 ---
 Title: Association Croquet Gold Medal, Men's and Women's Singles and Eire Cup.
-Published: 2018-01-04T18:19:30.8242725+11:00
+Published: 2018-01-04T18:22:24.4668351+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -17,7 +17,7 @@ The 3 events -
 will be conducted in South Australia at the Croquet SA headquarters in the South Parklands on Hutt Rd and at various clubs around Adelaide.
 
 
-Entries for the the [Men's Singles](/tournaments/2018/ac/mens-open) and [Women's Singles](/tournaments/2018/ac/womens-open) may now be made via the on-line entry forms.
+Entries for the the [Men's Singles](/tournaments/2018/ac/mens-open) and [Women's Singles](/tournaments/2018/ac/womens-open) may now be made via the on-line entry forms (also available on the Tournaments page).
 
 
 The flyer for the event may be viewed by [clicking here](/ac-m-and-w-singles-2018.pdf).
