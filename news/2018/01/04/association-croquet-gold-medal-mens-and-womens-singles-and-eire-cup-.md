@@ -1,6 +1,6 @@
 ---
 Title: Association Croquet Gold Medal, Men's and Women's Singles and Eire Cup.
-Published: 2018-01-04T18:12:16.4324852+11:00
+Published: 2018-01-04T18:14:45.0349169+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
