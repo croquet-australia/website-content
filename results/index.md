@@ -1,6 +1,6 @@
 ---
 Title: '**2017**'
-Published: 2017-11-16T15:41:19.9821359+11:00
+Published: 2018-01-29T13:57:46.8942875+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -112,8 +112,8 @@ Winner: Lester Hughes
 Runner Up: David Wise
 
 ###Women’s Eights
-Winner: Patricia Watts
-Runner Up: Shirlene McBride
+Winner: Shirlene McBride
+Runner Up: Patricia Watts
 
 
 <br/><img src="/results/winners-presidents-gc-eights-2.jpg" alt="Back Row L-R Ron McBride (SA), David Wise (SA), Terry Hopkins (VIC), Lester Hughes, (VIC) <br/>Front Row L-R Shirlene McBride (SA), Gail Hopkins (VIC), Patricia Watts (VIC), Chris McWhirter (WA)" title="Winners President’s GC Eights, 2017"/>
