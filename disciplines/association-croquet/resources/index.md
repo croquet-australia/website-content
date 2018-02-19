@@ -1,6 +1,6 @@
 ---
 Title: disciplines/association croquet/resources/index
-Published: 2018-02-19T16:18:22.3760594+11:00
+Published: 2018-02-19T17:35:39.2484034+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -12,7 +12,7 @@ Author:
 
 <br/>- [ORLAC*Official Ruling on the Laws of Association Croquet* December 2017 Edition](https://www.croquet.org.uk/?p=games/association/laws/6th/orlac).
 
-<br/>- [Merged AC Laws and Official Rulings](/laws-and-orlc-merged.pdf)
+<br/>- [Merged AC Laws and Official Rulings](/laws-and-orlc-merged.pdf)  Croquet New Zealand is acknowledged for their efforts in developing this merged document.
 
 <br/>- [*ACA Refereeing Regulations*](/aca-refereeing-regulations-october-2015.pdf).
 
