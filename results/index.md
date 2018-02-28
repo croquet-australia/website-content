@@ -1,6 +1,6 @@
 ---
 Title: '**2018**'
-Published: 2018-02-28T12:02:57.9056119+11:00
+Published: 2018-02-28T12:07:19.8246245+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -24,6 +24,8 @@ Winner:  Andre Daniel-Dreyfus     Runner up:  Mick Reidy
 Winner:  Kate Logan        Runner up:  Shirlene McBride
 
 <br/><img src="/results/winners-and-runners-up-from-jim.jpg">
+
+<br?> Left to Right: Mick Reidy (SA), Andre Daniel-Dreyfus (Vic), Barry Haydon (SA), Kate Logan (SA), Peter Freer (ACT), Fleur Brockway (WA), Judy Wembridge (Vic), Shirlene McBride (SA)
 
 
 ##**Australian Under 21 Singles**
