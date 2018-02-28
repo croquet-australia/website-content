@@ -1,6 +1,6 @@
 ---
 Title: '**2018**'
-Published: 2018-02-28T12:01:25.7372162+11:00
+Published: 2018-02-28T12:02:57.9056119+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -23,7 +23,7 @@ Winner:  Andre Daniel-Dreyfus     Runner up:  Mick Reidy
 ###Women's Eight
 Winner:  Kate Logan        Runner up:  Shirlene McBride
 
-<br/><img src="/results/winners-and-runners-up-from-jim.jpg"./>
+<br/><img src="/results/winners-and-runners-up-from-jim.jpg">
 
 
 ##**Australian Under 21 Singles**
