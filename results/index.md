@@ -1,13 +1,40 @@
 ---
-Title: '**2017**'
-Published: 2018-01-29T13:57:46.8942875+11:00
+Title: '**2018**'
+Published: 2018-02-28T11:57:06.2953335+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
+#**2018**
+
+##**Australian GC President's Eights**
+
+###First Eight 
+Winner:  Fleur Brockway    Runner up:  Peter Freer
+
+###Second Eight 
+Winner:  Judy Wembridge     Runner up:  Barry Haydon
+
+###Third Eight 
+Winner:  Andre Daniel-Dreyfus     Runner up:  Mick Reidy
+
+###Women's Eight
+Winner:  Kate Logan        Runner up:  Shirlene McBride
+
+
+##**Australian Under 21 Singles**
+Winner:  Curtis Mead  Runner Up:  Silas Hamilton
+
+##**Australian Under 21 Doubles**
+Winners:  Silas Hamilton and Tim Harmsen  Runners Up:  Curtis Mead and Miley Fleming
+
 #**2017**
+
+##**Australian AC Open Singles**
+Winner:  Robert Fletcher  Runner up:  Greg Fletcher
+Plate Winner:  Mike Hughes  Runner up: Ron McBride
 
 ##**Australian AC Open Doubles**
 Winners:  Greg Fletcher and Edward Wilson    Runners up:  Robert Fletcher and Malcolm Fletcher
