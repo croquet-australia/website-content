@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2017-11-14T16:07:07.5687318+11:00
+Published: 2018-03-14T15:50:16.9555304+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -76,9 +76,10 @@ Author:
 <br/>[Terry Ericson(Chair)](mailto:gcselectors@croquet-australia.com.au)
 <br/>Mob: 0403 424 312
 <br/>Anne Quinn (Sec.)
-<br/>Lester Hughes
+<br/>John Arney
+<br/>Peter Landrebe
 <br/>Captain – Chris McWhirter
-<br/>HPM GC
+<br/>Ron McBride - HPM GC
 <a name="appointed-officers"></a>
 ##**APPOINTED OFFICERS**
 <br/>**High Performance Manager – Association Croquet**
