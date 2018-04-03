@@ -1,6 +1,6 @@
 ---
 Title: ACA Events Committee Survey
-Published: 2018-04-03T13:42:59.5576887+10:00
+Published: 2018-04-03T13:47:31.3813651+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -16,7 +16,7 @@ Please spare a few minutes to respond to the survey by 30 April - depress the CT
 
 An e-mail is also being sent direct to the players who went to Adelaide, but feel free to mention this survey on to anyone else who might be interested in responding – the more feedback, the better!
 
-Queries re the survey should go to Peter Tracey (ACA Events, +61 4 1967 2655. peter.tracey@bigpond.com ) or to events@croquet-australia.com.au “
+Queries re the survey should go to Peter Tracey ACA Events, +61 4 1967 2655. (mailto:peter.tracey@bigpond.com ) or to (mailto:events@croquet-australia.com.au)
 
 Thanks, Peter
 ACA Events
