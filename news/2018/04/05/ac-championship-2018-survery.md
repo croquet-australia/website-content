@@ -1,6 +1,6 @@
 ---
-Title: AC Championship 2018 - Survery
-Published: 2018-04-05T12:03:08.8045984+10:00
+Title: AC Championship 2018 - Survey
+Published: 2018-04-05T12:14:23.7742844+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -16,4 +16,4 @@ Please spare a few minutes to respond to the survey by 30 April - depress the CT
 
 An e-mail is also being sent direct to the players who went to Adelaide, but feel free to mention this survey on to anyone else who might be interested in responding – the more feedback, the better!
 
-Queries re the survey should go to Peter Tracey (ACA Events, +61 4 1967 2655. [Peter Tracy](mailto:peter.tracey@bigpond.com ) or to [Events](mailto:events@croquet-au)
+Queries re the suryvey should go to Peter Tracey (ACA Events, +61 4 1967 2655. [Peter Tracy](mailto:peter.tracey@bigpond.com ) or to [Events](mailto:events@croquet-au)
