@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2018-03-14T15:50:16.9555304+11:00
+Published: 2018-04-05T14:17:02.6023801+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -13,8 +13,8 @@ Author:
 <br/>Trading as **Croquet** Australia and [Gateball Australia](http://gateball.com.au)
 <br/>ABN 90 330 745 920 
 ###**ACA National Head Office**
-<br/>A/g ACA Secretary/Administrative Officer
-<br/>[Graeme Thomas](mailto:admin@croquet-australia.com.au)
+<br/>A/g ACA Executive Officer
+<br/>[Rob Murray](mailto:admin@croquet-australia.com.au)
 <br/>PO BOX 254, DICKSON ACT 2602
 <br/>Mob: 0457 678 380
 <br/>Website: www.croquet-australia.com.au
@@ -37,14 +37,7 @@ Author:
 <br/>156 Kent Street, ROCKHAMPTON QLD 4700
 <br/>Ph: 07.4922 4111; Mob: 0418 791 486
 
-<br/>[Tony McArthur](mailto:tony.mcarthur@croquet-australia.com.au)
-<br/>Mob:0417 228 155
-
 <br/>[Jim Nicholls](mailto:jim.nicholls@croquet-australia.com.au)
-
-<br/>[Murray Tinker](mailto:murray.tinker@croquet-australia.com.au)
-<br/>PO BOX 59, SPRING HILL QLD 4004
-<br/>Mob:0405 005 019
 
 <br/>[Graeme Thomas](mailto:graeme.thomas@croquet-australia.com.au)
 <br/>11A Dunedin St DOVER GARDENS  SA 5048
