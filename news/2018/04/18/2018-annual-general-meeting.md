@@ -1,6 +1,6 @@
 ---
 Title: 2018 ANNUAL GENERAL MEETING
-Published: 2018-04-18T13:09:49.4849638+10:00
+Published: 2018-04-18T13:37:09.1118991+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -15,3 +15,5 @@ Don Close (Treasurer)
 Graham Thomas (Secretary)
 Jim Nicholls
 Tony McArthur
+
+<br/><img src="mydocuments/img20180326_140833.jpg" alt="2018 Board" title="2018 Board"/>
