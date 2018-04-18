@@ -1,6 +1,6 @@
 ---
 Title: 2018 ANNUAL GENERAL MEETING
-Published: 2018-04-18T13:58:24.2329400+10:00
+Published: 2018-04-18T14:01:16.5446288+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -16,4 +16,4 @@ Graham Thomas (Secretary)
 Jim Nicholls
 Tony McArthur
 
-<br/><img src="/20183 - AGM/2018 Board.jpg" alt="2018 Board" title="2018 Board"/>
+<br/><img src="/Dropbox/img-2018 Board.jpg" alt="2018 Board" title="2018 Board"/>
