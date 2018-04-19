@@ -1,6 +1,6 @@
 ---
 Title: 2018 Annual General Meeting Minutes
-Published: 2018-04-19T11:16:08.6738748+10:00
+Published: 2018-04-19T11:18:11.9746606+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,6 +9,6 @@ Author:
 ---
 Please click on the link below for the 2018 Australian Croquet Association AGM minutes. 
 
-[2018 AGM Minutes](/Minutes - AGM 26 March, 2018 PV.pdf)
+[2018 AGM Minutes](/Minutes-AGM26March,2018PV.pdf)
 
 Addendum - Appendix documents available on request to [ACA](mailto:admin@croquet-australia.com.au)
