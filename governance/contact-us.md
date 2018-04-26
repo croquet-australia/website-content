@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2018-04-05T14:18:13.2024905+10:00
+Published: 2018-04-26T14:45:22.1909673+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -43,7 +43,8 @@ Author:
 <br/>11A Dunedin St DOVER GARDENS  SA 5048
 <br/>Mob:0408 843 526
 
-
+<br/>[Tony McArthur](tony.mcarthur@croquet.australia.com.au)
+<br/>Mob:0417 228 155
 
 <a name="committees"></a>
 ##COMMITTEES
