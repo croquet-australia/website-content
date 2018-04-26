@@ -1,14 +1,12 @@
 ---
 Title: governance/minutes/board meeting minutes
-Published: 2018-04-26T16:28:55.0329816+10:00
+Published: 2018-04-26T16:29:41.8769612+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-[AGM 26 March 2018](user/dropbox/0 shared folders/Directors/2018/Administration/Website documents/minutes - AGM 26 March, 2018 PV.pdf)
-
 ###**2017**
 [Thursday 2 November](/governance/minutes/minutes-thursday-2-nov-pv.pdf)
 
