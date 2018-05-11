@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2018-04-26T14:45:22.1909673+10:00
+Published: 2018-05-11T13:28:30.8579508+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -114,8 +114,8 @@ Author:
 <br/>[Vacant](mailto:complaints@croquet-australia.com.au)
 
 <br/>**National Handicapper**
-<br/>[Rob McAdam](mailto:national.handicapper@croquet-australia.com.au)
-<br/>Ph: 03.6229 8269
+<br/>[Gareth Denyer](mailto:national.handicapper@croquet-australia.com.au)
+<br/>Mob: 0405 506 718
 
 <br/>**Archivist**
 <br/>[Martin Clarke](mailto:archivist@croquet-australia.com.au)
