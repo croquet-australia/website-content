@@ -1,6 +1,6 @@
 ---
 Title: governance/minutes/annual general meeting 2018 minutes
-Published: 2018-05-22T12:17:38.1858749+10:00
+Published: 2018-05-22T12:25:34.7486188+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
