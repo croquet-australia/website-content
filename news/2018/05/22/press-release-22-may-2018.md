@@ -1,6 +1,6 @@
 ---
 Title: PRESS RELEASE 22 May 2018
-Published: 2018-05-22T17:16:25.1982917+10:00
+Published: 2018-05-23T12:41:23.8340193+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -16,4 +16,4 @@ These budget changes were communicated via the December 7 Board Meeting Minutes 
 
 In the future ACA will endeavour to communicate these types of issues more thoroughly to its members, players and tournament management through the website and social media.
 
-Any further queries regarding this matter should be directed to Executive Officer, [Rob Murray] (mailto:croquet.australia@gmail.com) or 0457 678 380
+Any further queries regarding this matter should be directed to Executive Officer, Rob Murray at croquet.australia@gmail.com or 0457 678 380
