@@ -1,6 +1,6 @@
 ---
 Title: governance/contact us
-Published: 2018-05-11T13:28:30.8579508+10:00
+Published: 2018-06-01T14:22:28.1561759+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -64,7 +64,7 @@ Author:
 <br/> Mob: 0408 332 690
 <br/>Trevor Bassett
 <br/>Martin Clarke
-<br/>Captain - Ian Dumergue 
+<br/>Captain - Greg Fletcher 
 <br/>HPM AC
 ###**GC Selection Committee**
 <br/>[Terry Ericson(Chair)](mailto:gcselectors@croquet-australia.com.au)
