@@ -1,6 +1,6 @@
 ---
 Title: Tournaments index
-Published: 2018-02-28T14:39:05.5370828+11:00
+Published: 2018-07-10T13:28:10.9571567+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -9,7 +9,7 @@ Author:
 ---
 ##Association Croquet Patron's Trophy - Entries
 
-<a href="/tournaments/2018/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Enter Patrons Trophy</a>
+<a href="/tournaments/2018/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Enter Patrons 1 Trophy</a>
 
 Closing date **Thursday 31 May, 2018** (midnight WA time)
 
