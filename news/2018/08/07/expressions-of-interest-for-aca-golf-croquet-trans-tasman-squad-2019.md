@@ -1,15 +1,13 @@
 ---
 Title: Expressions of Interest for ACA Golf Croquet Trans Tasman Squad 2019
-Published: 2018-08-07T10:21:39.4957927+10:00
+Published: 2018-08-09T19:16:16.0822881+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-ACA is participating in a Trans Tasman Tournament in December 2019 in Australia.  As such a training squad for this competition is to be formed under the direction of the ACA GC High Performance Manager .  The final team will be selected in 2019 from this squad.
-The squad will be added to and reduced in accordance with the requirements of the tournament and the team’s preparation needs.
-Expressions of Interest stating:  name, address, phone number, email address,ACA ID and Club should be emailed to Ron McBride at GCHPM@croquet-australia.com.au.
+ACA is participating in a GC Trans Tasman Tournament in December 2019 in Australia.  ACA GC Selectors will select the national squad and EOI are to be forwarded to the Chair, Terry Ericson - glenleslie@bigpond.com (Expressions of Interest stating: name, address, phone number, email address, ACA ID and Club). The training squad for this competition will be under the direction of the ACA GC High Performance Manager.  The final team will be selected in 2019 from this squad. The squad will be added to and reduced in accordance with the requirements of the tournament and the team’s preparation needs.
 
 Closing Date for initial squad is 17th August 2018
 Should you require further information please contact Ron on 0427259751 or email to above address.
