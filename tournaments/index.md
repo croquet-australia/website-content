@@ -1,34 +1,12 @@
 ---
 Title: Tournaments index
-Published: 2018-07-10T13:28:10.9571567+10:00
+Published: 2018-10-04T19:37:01.4375552+10:00
 Author:
-  Name: Susan Linge
-  Email: croquet.australia@gmail.com
+  Name: Tim Murphy
+  Email: tim@26tp.com
   TimeZoneId: AUS Eastern Standard Time
 
 ---
-##Association Croquet Patron's Trophy - Entries
-
-<a href="/tournaments/2018/ac/patrons-trophy" class="btn btn-primary btn-lg" role="button">Enter Patrons 1 Trophy</a>
-
-Closing date **Thursday 31 May, 2018** (midnight WA time)
-
-
-________________
-
-##Golf Croquet Open Doubles and  Singles - Entries
-
-<a href="/tournaments/2018/gc/open-singles" class="btn btn-primary btn-lg" role="button">Enter Open Singles</a>
-
-<a href="/tournaments/2018/gc/open-doubles" class="btn btn-primary btn-lg" role="button">Enter Open Doubless</a>
-
-Closing date **Thursday 19 April, 2018** (midnight WA time)
-
-
-________________
-
-
-
 ## Tournament Calendar
 
 ### 2018-2021
