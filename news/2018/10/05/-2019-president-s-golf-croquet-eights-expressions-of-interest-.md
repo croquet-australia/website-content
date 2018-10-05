@@ -1,6 +1,6 @@
 ---
-Title: 2019 President’s Golf Croquet Eights - Expressions of Interest
-Published: 2018-10-05T12:23:37.4494046+10:00
+Title: 2019 PRESIDENT's GOLF CROQUET EIGHTS - Expressions of Interest
+Published: 2018-10-05T12:25:09.0978109+10:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
