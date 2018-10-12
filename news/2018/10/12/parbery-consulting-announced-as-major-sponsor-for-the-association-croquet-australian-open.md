@@ -1,6 +1,6 @@
 ---
 Title: PARBERY CONSULTING ANNOUNCED AS MAJOR SPONSOR FOR THE ASSOCIATION CROQUET AUSTRALIAN OPEN
-Published: 2018-10-12T16:14:58.1035675+11:00
+Published: 2018-10-12T16:17:23.3124312+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -19,4 +19,4 @@ As part of the new sponsorship arrangement Parbery and the ACA will be offering:
 
 *Find out more about our Parbery:*
 
-The Parbery Consulting team combines strong government and commercial experience to provide you and your team with practical, professional and tailored management consulting advice and services. For more information on the services provided by [Parbery](https://www.parbery.com.au/)
+The Parbery Consulting team combines strong government and commercial experience to provide you and your team with practical, professional and tailored management consulting advice and services. Click here for more information on the services provided by [Parbery](https://www.parbery.com.au/)
