@@ -1,6 +1,6 @@
 ---
 Title: governance/constitution regulations and policies
-Published: 2018-11-08T14:32:25.8417437+11:00
+Published: 2018-11-08T14:34:56.2008832+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -20,7 +20,7 @@ Author:
 ###Regulations
 
 **2016**
-<br/>[Australian Tournament Regulations updated 16 September 2018](/TRegs-amended16September2018.pdf)
+<br/>[Australian Tournament Regulations updated 16 September 2018](/TRegs-amended 16 September 2018.pdf)
 
 **2015**
 <br/>[Australian Tournament Regulations updated June 2015](/tregs-amended-15-june-2015.pdf).
