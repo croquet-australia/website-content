@@ -1,6 +1,6 @@
 ---
 Title: UNDER 21 GOLF CROQUET NATIONAL CHAMPIONSHIPS
-Published: 2018-11-08T10:59:36.4001813+11:00
+Published: 2018-11-08T11:02:29.1646799+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -11,7 +11,7 @@ The ACA 2019 Under 21 National Golf Croquet Championships will be held in Adelai
 
 Entries for the event will be $35 for Singles and $17 doubles.
 
-The event flyer is available through emailing the ACA office
+The event flyer is available through emailing the [ACA office](mailto:admin@croquet-australia.com.au)
 
-[Singles] (https://croquet-australia.com.au/tournaments/2019/gc/u21-singles) 
+[Singles](https://croquet-australia.com.au/tournaments/2019/gc/u21-singles) 
 [Doubles](https://croquet-australia.com.au/tournaments/2019/gc/u21-doubles)
