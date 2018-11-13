@@ -1,6 +1,6 @@
 ---
 Title: 2019 GOLF CROQUET WORLD CHAMPIONSHIP
-Published: 2018-11-13T14:29:57.9958643+11:00
+Published: 2018-11-13T14:30:39.0395064+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
