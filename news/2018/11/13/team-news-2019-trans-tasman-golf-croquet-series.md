@@ -1,6 +1,6 @@
 ---
 Title: TEAM NEWS - 2019 TRANS-TASMAN GOLF CROQUET SERIES
-Published: 2018-11-13T11:08:55.8988825+11:00
+Published: 2018-11-14T11:48:38.4846323+11:00
 Author:
   Name: Susan Linge
   Email: croquet.australia@gmail.com
@@ -28,4 +28,4 @@ Peter Landrebe
 Chris McWhirter
 Edward Wilson
 
-The squad will be further reduced to 4 men and 4 women with a further 2 reserves per gender before the end of December 2019.
+The squad will be further reduced to 4 men and 4 women with a further 2 reserves per gender before the end of December 2018.
